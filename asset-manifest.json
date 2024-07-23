@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shop-online-react/static/css/main.76791aab.css",
-    "main.js": "/shop-online-react/static/js/main.b8a56ff2.js",
+    "main.js": "/shop-online-react/static/js/main.ab9a0a2d.js",
     "static/media/FENTY.mp4": "/shop-online-react/static/media/FENTY.7ce8660efcf7cbf4d2a4.mp4",
     "static/media/footbal.jpeg": "/shop-online-react/static/media/footbal.656a978420c7df2ce64d.jpeg",
     "static/media/Roboto-Medium.ttf": "/shop-online-react/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
@@ -25,10 +25,10 @@
     "static/media/RUN-FAVORITE-Mens-Tee.avif": "/shop-online-react/static/media/RUN-FAVORITE-Mens-Tee.6c5018b110c10175c89f.avif",
     "index.html": "/shop-online-react/index.html",
     "main.76791aab.css.map": "/shop-online-react/static/css/main.76791aab.css.map",
-    "main.b8a56ff2.js.map": "/shop-online-react/static/js/main.b8a56ff2.js.map"
+    "main.ab9a0a2d.js.map": "/shop-online-react/static/js/main.ab9a0a2d.js.map"
   },
   "entrypoints": [
     "static/css/main.76791aab.css",
-    "static/js/main.b8a56ff2.js"
+    "static/js/main.ab9a0a2d.js"
   ]
 }
