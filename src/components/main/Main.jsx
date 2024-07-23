@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import React, { useState } from 'react';
 import './main.css';
 import { Link } from 'react-router-dom';
 import fenty from '../../assets/video/FENTY.mp4';
@@ -11,14 +11,8 @@ import riri from '../../assets/images/riri.avif';
 import speedcat from '../../assets/images/speedcat.avif';
 
 const Main = () => {
-  const videoRef = useRef(null);
-
   const [isTextOpen, setIsTextOpen] = useState(true);
   const [isClosedText, setIsClosedText] = useState(false);
-
-  const handleVideoEnded = () => {
-    videoRef.current.play();
-  };
 
   const handleOpenText = () => {
     setIsTextOpen(false);
@@ -34,13 +28,12 @@ const Main = () => {
     <div>
       <div className="main__video">
         <video
-          ref={videoRef}
           className="video"
           controls
           src={fenty}
           autoPlay
           muted
-          onEnded={handleVideoEnded}
+          loop
         ></video>
       </div>
       <div className="main__forever-faster">
