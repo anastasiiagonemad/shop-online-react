@@ -1,0 +1,99 @@
+.footer {
+    display: grid;
+    justify-content: space-evenly;
+    background-color: black;
+    padding: 1rem;
+    grid-template-areas: "support about discount";
+}
+
+.footer__about,
+.footer__support,
+.footer__discount {
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.footer__about p,
+.footer__support p,
+.footer__discount p {
+    font-size: 0.5em;
+}
+/* GRID AREAS */
+.footer__support {
+    grid-area: support;
+}
+.footer__about {
+    grid-area: about;
+}
+.footer__discount {
+    grid-area: discount;
+}
+/* ----------------------- */
+
+.footer__discount p {
+    font-family: "Medium", sans-serif;
+    font-size: 0.875em;
+}
+.footer__discount-link {
+    text-decoration: none;
+    background-color: #ad946d;
+    text-align: center;
+    padding: 1rem;
+    text-transform: uppercase;
+    color: #ffff;
+    font-family: "Bold", sans-serif;
+}
+
+.footer__support,
+.footer__about {
+    margin-top: 1rem;
+}
+
+.footer__support-title,
+.footer__about-title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+.footer__support-title img,
+.footer__about-title img {
+    width: 15px;
+    cursor: pointer;
+}
+
+.footer__support-title p,
+.footer__about-title p {
+    font-size: 0.875em;
+}
+
+.footer__support-other,
+.footer__about-other {
+    animation: fadeIn 2s;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+.footer__support-other p,
+.footer__about-other p {
+    font-size: 0.45em;
+}
+
+@media screen and (max-width: 650px) {
+    .footer {
+        display: grid;
+        grid-template-columns: 1fr;
+        background-color: black;
+        grid-template-areas:
+            "discount"
+            "support"
+            "about";
+    }
+}
