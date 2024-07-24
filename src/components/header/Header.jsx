@@ -24,7 +24,7 @@ const Header = () => {
       <div className="header">
         <div className="header__container">
           <div className="header__logo">
-            <Link to="/home">
+            <Link to="/shop-online-react">
               <img src={puma} alt="logo" />
             </Link>
           </div>

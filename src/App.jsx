@@ -19,7 +19,7 @@ function App() {
         <Header />
         <div className="content">
           <Routes>
-            <Route path="/home" element={<Main />} />
+            <Route path="/shop-online-react" element={<Main />} />
             <Route path="/woman" element={<Ladys />} />
             <Route path="/man" element={<Mens />} />
             <Route path="/sale" element={<Sale />} />
