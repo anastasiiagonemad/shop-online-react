@@ -1,0 +1,362 @@
+{
+  "woman": [
+    {
+      "id": 1,
+      "art": "Softride Sway Running Shoe",
+      "price": "41,95 €",
+      "rrp": "RRP: 84,95 €",
+      "available": 10
+    },
+    {
+      "id": 2,
+      "art": "Retaliate 2 Running Shoes",
+      "price": "39,95 €",
+      "rrp": "RRP: 79,95 €",
+      "available": 2
+    },
+    {
+      "id": 3,
+      "art": "Disprese XT 3 Training Shoes",
+      "price": "41,95 €",
+      "rrp": "RRP: 69,95 €",
+      "available": 1
+    },
+    {
+      "id": 4,
+      "art": "Puma Cali Court Leather Womens Sneakers",
+      "price": "59,95 €",
+      "rrp": "RRP: 99,95 €",
+      "available": 4
+    },
+    {
+      "id": 5,
+      "art": "Future Rider Play On Sneakers",
+      "price": "59,95 €",
+      "rrp": "RRP: 99,95 €",
+      "available": 9
+    },
+    {
+      "id": 6,
+      "art": "Mayze Sneakers Women",
+      "price": "65,95 €",
+      "rrp": "RRP: 109,95 €",
+      "available": 15
+    },
+    {
+      "id": 7,
+      "art": "EVOKNIT 7 Short Tights Women",
+      "price": "16,95 €",
+      "rrp": "RRP: 42,95 €",
+      "available": 20
+    },
+    {
+      "id": 8,
+      "art": "PUMA SQUAD Women's Leggings",
+      "price": "13,95 €",
+      "rrp": "RRP: 34,95 €",
+      "available": 3
+    },
+    {
+      "id": 9,
+      "art": "EVOKNIT Crop Top Women",
+      "price": "13,95 €",
+      "rrp": "RRP: 34,95 €",
+      "available": 50
+    },
+    {
+      "id": 10,
+      "art": "HER Women's High-Waisted Leggings",
+      "price": "15,95 €",
+      "rrp": "RRP: 39,95 €",
+      "available": 30
+    },
+    {
+      "id": 11,
+      "art": "Kaia 2.0 Mid Women's Sneakers",
+      "price": "27,95 €",
+      "rrp": "RRP: 69,95 €",
+      "available": 3
+    },
+    {
+      "id": 12,
+      "art": "Cali Dream Leather Sneakers Women",
+      "price": "42,95 €",
+      "rrp": "RRP: 99,95 €",
+      "available": 10
+    },
+    {
+      "id": 13,
+      "art": "RS-X Efekt PRM Sneakers",
+      "price": "71,95 €",
+      "rrp": "RRP: 119,95 €",
+      "available": 8
+    },
+    {
+      "id": 14,
+      "art": "UNWIND STUIDIO Women's Training Shorts",
+      "price": "17,95 €",
+      "rrp": "RRP: 44,95 €",
+      "available": 2
+    },
+    {
+      "id": 15,
+      "art": "PUMA POWER Women's Sweatshirt",
+      "price": "19,95 €",
+      "rrp": "RRP: 49,95 €",
+      "available": 30
+    }
+  ],
+  "man": [
+    {
+      "id": 1,
+      "art": "RS-X Triple Sneakers",
+      "price": "76,95 €",
+      "rrp": "RRP: 109,95 €",
+      "available": 10
+    },
+    {
+      "id": 2,
+      "art": "RAD/CAL Men's Tee",
+      "price": "39,95 €",
+      "rrp": "RRP: 79,95 €",
+      "available": 2
+    },
+    {
+      "id": 3,
+      "art": "Essentials+ Tape Hoodie Men",
+      "price": "23,95 €",
+      "rrp": "RRP: 59,95 €",
+      "available": 1
+    },
+    {
+      "id": 4,
+      "art": "EVOSTRIPE Men's Sweatpants",
+      "price": "23,95 €",
+      "rrp": "RRP: 59,95 €",
+      "available": 4
+    },
+    {
+      "id": 5,
+      "art": "CA Pro Mid Sneakers",
+      "price": "49,95 €",
+      "rrp": "RRP: 99,95 €",
+      "available": 9
+    },
+    {
+      "id": 6,
+      "art": "ULTRA ULTIMATE FG/AG Football Sneakers",
+      "price": "175,95 €",
+      "rrp": "RRP: 219,95 €",
+      "available": 15
+    },
+    {
+      "id": 7,
+      "art": "Egypt 22/23 Replica Shorts",
+      "price": "15,95 €",
+      "rrp": "RRP: 39,95 €",
+      "available": 20
+    },
+    {
+      "id": 8,
+      "art": "BMW M Motorsport ESS T-shirt",
+      "price": "17,95 €",
+      "rrp": "RRP: 44,95 €",
+      "available": 3
+    },
+    {
+      "id": 9,
+      "art": "Ghana 22/23 Promo Shorts",
+      "price": "23,95 €",
+      "rrp": "RRP: 59,95 €",
+      "available": 50
+    },
+    {
+      "id": 10,
+      "art": "PUMA TEAM Men's Graphic T-shirt",
+      "price": "16,95 €",
+      "rrp": "RRP: 34,95 €",
+      "available": 30
+    },
+    {
+      "id": 11,
+      "art": "Capri Royale Sneakers",
+      "price": "47,95 €",
+      "rrp": "RRP: 79,95 €",
+      "available": 3
+    },
+    {
+      "id": 12,
+      "art": "PUMA POWER Colorblock Men's Hoodie",
+      "price": "23,95 €",
+      "rrp": "RRP: 59,95 €",
+      "available": 10
+    },
+    {
+      "id": 13,
+      "art": "Exotek NITRO Energy Sneakers",
+      "price": "65,95 €",
+      "rrp": "RRP: 109,95 €",
+      "available": 8
+    },
+    {
+      "id": 14,
+      "art": "PUMA x PERKS AND MINI Tee",
+      "price": "31,95 €",
+      "rrp": "RRP: 64,95 €",
+      "available": 2
+    },
+    {
+      "id": 15,
+      "art": "PUMA x PERKS AND MINI Tee",
+      "price": "31,95 €",
+      "rrp": "RRP: 64,95 €",
+      "available": 30
+    }
+  ],
+  "child": [
+    {
+      "id": 1,
+      "art": "Anzarun Lite Kids' Trainers",
+      "price": "19,95 €",
+      "rrp": "RRP: 39,95 €",
+      "available": 10
+    },
+    {
+      "id": 2,
+      "art": "ESS+ BLOSSOM Youth Short Tee",
+      "price": "15,95 €",
+      "rrp": "RRP: 22,95 €",
+      "available": 2
+    },
+    {
+      "id": 3,
+      "art": "ESS+ BLOSSOM Youth Short Tee",
+      "price": "15,95 €",
+      "rrp": "RRP: 22,95 €",
+      "available": 1
+    },
+    {
+      "id": 4,
+      "art": "PUMA POWER Youth Sweatshirt",
+      "price": "17,95 €",
+      "rrp": "RRP: 44,95 €",
+      "available": 4
+    },
+    {
+      "id": 5,
+      "art": "PUMA POWER Youth Sweatshirt",
+      "price": "17,95 €",
+      "rrp": "RRP: 44,95 €",
+      "available": 9
+    },
+    {
+      "id": 6,
+      "art": "PUMA POWER Youth Graphic Sweatshirt",
+      "price": "17,95 €",
+      "rrp": "RRP: 44,95 €",
+      "available": 15
+    },
+    {
+      "id": 7,
+      "art": "ESS+ Blossom Girls' Dress",
+      "price": "20,95 €",
+      "rrp": "RRP: 29,95 €",
+      "available": 20
+    },
+    {
+      "id": 8,
+      "art": "ESS+ BLOSSOM Girls' Shorts",
+      "price": "16,95 €",
+      "rrp": "RRP: 27,95 €",
+      "available": 3
+    },
+    {
+      "id": 9,
+      "art": "ESS+ BLOSSOM Youth Short Tee",
+      "price": "15,95 €",
+      "rrp": "RRP: 22,95 €",
+      "available": 50
+    },
+    {
+      "id": 10,
+      "art": "GRAPHICS Year of Sports Youth Tee",
+      "price": "13,95 €",
+      "rrp": "RRP: 22,95 €",
+      "available": 30
+    },
+    {
+      "id": 11,
+      "art": "Minicats Essentials Raglan Jogger Set Toddler",
+      "price": "22,95 €",
+      "rrp": "RRP: 37,95 €",
+      "available": 3
+    },
+    {
+      "id": 12,
+      "art": "Minicats Essentials Raglan Jogger Set Toddler",
+      "price": "22,95 €",
+      "rrp": "RRP: 37,95 €",
+      "available": 10
+    },
+    {
+      "id": 13,
+      "art": "AC Milan FtblArchive Youth Track Pants",
+      "price": "41,95 €",
+      "rrp": "RRP: 59,95 €",
+      "available": 8
+    },
+    {
+      "id": 14,
+      "art": "Fenerbahçe S.K. 23/24 Away Jersey Youth",
+      "price": "29,95 €",
+      "rrp": "RRP: 74,95 €",
+      "available": 2
+    },
+    {
+      "id": 15,
+      "art": "ESS+ BLOSSOM Girls' Shorts",
+      "price": "13,95 €",
+      "rrp": "RRP: 27,95 €",
+      "available": 30
+    }
+  ],
+  "fenty": [
+    {
+      "id": 1,
+      "art": "FENTY x PUMA Creeper Phatty In Session Sneakers",
+      "price": "119,95 €",
+      "available": 10
+    },
+    {
+      "id": 2,
+      "art": "FENTY x PUMA Creeper Phatty In Session Sneakers",
+      "price": "119,95 €",
+      "available": 2
+    },
+    {
+      "id": 3,
+      "art": "FENTY x PUMA Creeper Phatty In Session Sneakers Kids",
+      "price": "74,95 €",
+      "available": 1
+    },
+    {
+      "id": 4,
+      "art": "FENTY x PUMA Creeper Phatty In Session Sneakers Kids",
+      "price": "74,95 €",
+      "available": 4
+    },
+    {
+      "id": 5,
+      "art": "FENTY x PUMA Creeper Phatty In Session Sneakers Toddler",
+      "price": "64,95 €",
+      "available": 9
+    },
+    {
+      "id": 6,
+      "art": "FENTY x PUMA Creeper Phatty In Session Sneakers Toddler",
+      "price": "64,95 €",
+      "available": 15
+    }
+  ],
+  "sale": []
+}

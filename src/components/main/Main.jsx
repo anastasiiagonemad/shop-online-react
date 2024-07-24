@@ -45,12 +45,12 @@ const Main = () => {
         </div>
         <div className="main__forever-faster_links">
           <div className="main__forever-faster_link">
-            <Link className="main__forever-faster_link-btn">
+            <Link to="/inprocess" className="main__forever-faster_link-btn">
               Shop running shoes
             </Link>
           </div>
           <div className="main__forever-faster_link">
-            <Link className="main__forever-faster_link-btn">
+            <Link to="/inprocess" className="main__forever-faster_link-btn">
               Explore running
             </Link>
           </div>
@@ -68,7 +68,9 @@ const Main = () => {
             <p>Nothing about the dove</p>
           </div>
           <div className="main__mastiempo-laptop_btn">
-            <Link className="main__mastiempo-laptop_btn-link">Shop now</Link>
+            <Link to="/inprocess" className="main__mastiempo-laptop_btn-link">
+              Shop now
+            </Link>
           </div>
         </div>
       </div>
@@ -83,7 +85,9 @@ const Main = () => {
           <p>Nothing about the dove</p>
         </div>
         <div className="main__mastiempo-mob_btn">
-          <Link className="main__mastiempo-mob_btn-link">Shop now</Link>
+          <Link to="/inprocess" className="main__mastiempo-mob_btn-link">
+            Shop now
+          </Link>
         </div>
       </div>
       <div className="main__promo">
@@ -100,10 +104,14 @@ const Main = () => {
           <p>EXTRA</p>
         </div>
         <div className="main__promo-btn1">
-          <Link className="main__promo-btn-link">Shop now</Link>
+          <Link to="/inprocess" className="main__promo-btn-link">
+            Shop now
+          </Link>
         </div>
         <div className="main__promo-btn2">
-          <Link className="main__promo-btn-link">Shop all sales</Link>
+          <Link to="/inprocess" className="main__promo-btn-link">
+            Shop all sales
+          </Link>
         </div>
         <div className="main__promo-terms">
           <p>Promo terms</p>
@@ -127,7 +135,12 @@ const Main = () => {
             <div className="main__latest-drops_items-item_text">
               <p>Rewrite the classics</p>
             </div>
-            <Link className="main__latest-drops_items-item_link">Shop now</Link>
+            <Link
+              to="/inprocess"
+              className="main__latest-drops_items-item_link"
+            >
+              Shop now
+            </Link>
           </div>
           <div className="main__latest-drops_items-item">
             <div className="main__latest-drops_items-item_img">
@@ -139,7 +152,12 @@ const Main = () => {
             <div className="main__latest-drops_items-item_text">
               <p>Ultra, future & king</p>
             </div>
-            <Link className="main__latest-drops_items-item_link">Shop now</Link>
+            <Link
+              to="/inprocess"
+              className="main__latest-drops_items-item_link"
+            >
+              Shop now
+            </Link>
           </div>
           <div className="main__latest-drops_items-item">
             <div className="main__latest-drops_items-item_img">
@@ -151,7 +169,12 @@ const Main = () => {
             <div className="main__latest-drops_items-item_text">
               <p>The creeper phatty in session</p>
             </div>
-            <Link className="main__latest-drops_items-item_link">Shop now</Link>
+            <Link
+              to="/inprocess"
+              className="main__latest-drops_items-item_link"
+            >
+              Shop now
+            </Link>
           </div>
           <div className="main__latest-drops_items-item">
             <div className="main__latest-drops_items-item_img">
@@ -163,7 +186,12 @@ const Main = () => {
             <div className="main__latest-drops_items-item_text">
               <p>High-speed style</p>
             </div>
-            <Link className="main__latest-drops_items-item_link">Shop now</Link>
+            <Link
+              to="/inprocess"
+              className="main__latest-drops_items-item_link"
+            >
+              Shop now
+            </Link>
           </div>
         </div>
       </div>

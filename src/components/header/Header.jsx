@@ -13,12 +13,10 @@ const Header = () => {
 
   const handleOpenMenu = () => {
     setIsOpen(true);
-    document.querySelector('.header').style.display = 'none';
   };
 
   const handleCloseMenu = () => {
     setIsOpen(false);
-    document.querySelector('.header').style.display = 'block';
   };
 
   return (
@@ -26,7 +24,7 @@ const Header = () => {
       <div className="header">
         <div className="header__container">
           <div className="header__logo">
-            <Link to="/shop-online-react">
+            <Link to="/home">
               <img src={puma} alt="logo" />
             </Link>
           </div>
@@ -51,7 +49,13 @@ const Header = () => {
           </div>
           <div className="header__menu-links">
             <div>
-              <span className="header__menu-links_link">Ladies</span>
+              <Link
+                to="/woman"
+                onClick={handleCloseMenu}
+                className="header__menu-links_link"
+              >
+                Ladies
+              </Link>
               <img
                 className="header__menu-links_arrow"
                 src={arrowRight}
@@ -59,7 +63,13 @@ const Header = () => {
               />
             </div>
             <div>
-              <span className="header__menu-links_link">Men's</span>
+              <Link
+                to="/man"
+                onClick={handleCloseMenu}
+                className="header__menu-links_link"
+              >
+                Men's
+              </Link>
               <img
                 className="header__menu-links_arrow"
                 src={arrowRight}
@@ -67,7 +77,13 @@ const Header = () => {
               />
             </div>
             <div>
-              <span className="header__menu-links_link">Children</span>
+              <Link
+                to="/child"
+                onClick={handleCloseMenu}
+                className="header__menu-links_link"
+              >
+                Children
+              </Link>
               <img
                 className="header__menu-links_arrow"
                 src={arrowRight}
@@ -75,7 +91,13 @@ const Header = () => {
               />
             </div>
             <div>
-              <span className="header__menu-links_link">FENTY x PUMA</span>
+              <Link
+                to="/fenty"
+                onClick={handleCloseMenu}
+                className="header__menu-links_link"
+              >
+                FENTY x PUMA
+              </Link>
               <img
                 className="header__menu-links_arrow"
                 src={arrowRight}
@@ -83,31 +105,13 @@ const Header = () => {
               />
             </div>
             <div>
-              <span className="header__menu-links_link">Collections</span>
-              <img
-                className="header__menu-links_arrow"
-                src={arrowRight}
-                alt="arrow"
-              />
-            </div>
-            <div>
-              <span className="header__menu-links_link">Sports</span>
-              <img
-                className="header__menu-links_arrow"
-                src={arrowRight}
-                alt="arrow"
-              />
-            </div>
-            <div>
-              <span className="header__menu-links_link">Sale</span>
-              <img
-                className="header__menu-links_arrow"
-                src={arrowRight}
-                alt="arrow"
-              />
-            </div>
-            <div>
-              <span className="header__menu-links_link">Forever. Faster.</span>
+              <Link
+                to="/sale"
+                onClick={handleCloseMenu}
+                className="header__menu-links_link"
+              >
+                Sale
+              </Link>
               <img
                 className="header__menu-links_arrow"
                 src={arrowRight}

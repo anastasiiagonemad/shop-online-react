@@ -1,0 +1,150 @@
+.product__title p {
+    padding: 2rem 0 1rem 0;
+    text-transform: uppercase;
+    font-family: "Medium", sans-serif;
+    font-size: 1.5em;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    margin: 0 1rem 0 1rem;
+}
+
+.product__cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 1rem;
+    gap: 1rem;
+}
+
+.product__card-item_img {
+    width: 100%;
+    object-fit: fill;
+    min-height: 200px;
+    max-height: 350px;
+    cursor: pointer;
+}
+
+.product__card-item_desc {
+    display: grid;
+    grid-template-columns: 40% 1fr;
+    place-items: center;
+    align-items: start;
+    justify-content: space-between;
+}
+.product__card-item_desc-price {
+    line-height: 1.5;
+}
+
+.product__card-item_desc-art {
+    font-size: 0.8em;
+    font-family: "Medium", sans-serif;
+}
+
+.product__card-item_price {
+    text-align: end;
+    font-size: 0.8em;
+    color: rgb(159, 1, 1);
+}
+
+.product__card-item_rrp {
+    font-size: 0.5em;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/*        FENTY         */
+
+.product__main_mob {
+    display: none;
+}
+
+.product__main_laptop {
+    position: relative;
+}
+
+.product__main_laptop-img img {
+    width: 100%;
+}
+
+.product__main_laptop-absolute {
+    position: absolute;
+    top: 0;
+    left: 1rem;
+    line-height: 0.5;
+}
+
+.product__main_laptop-title {
+    font-size: 4em;
+    text-transform: uppercase;
+    font-family: "Bold", sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.product__main_laptop-text {
+    margin-top: -2rem;
+    color: rgb(180, 3, 3);
+}
+
+.product__card-img img {
+    width: 100%;
+}
+
+/*----------------------*/
+@media screen and (min-width: 1024px) {
+    .product__cards {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        margin: 1rem;
+        gap: 1rem;
+    }
+
+    .product__main_laptop-absolute {
+        position: absolute;
+        top: 5rem;
+        left: 1rem;
+        line-height: 0.5;
+    }
+}
+
+@media screen and (max-width: 764px) {
+    .product__main_laptop {
+        display: none;
+    }
+    .product__main_mob {
+        display: block;
+        text-align: center;
+    }
+
+    .product__main_mob_img img {
+        width: 100%;
+    }
+
+    .product__main_mob-title {
+        font-size: 1.2em;
+        text-transform: uppercase;
+        font-family: "Medium", sans-serif;
+    }
+
+    .product__main_mob-text {
+        font-size: 0.875em;
+        font-family: "Thin", sans-serif;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .product__card-item_desc {
+        flex-direction: column;
+    }
+    .product__cards {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin: 1rem;
+        gap: 1rem;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    .product__cards {
+        display: grid;
+        grid-template-columns: 1fr;
+        margin: 1rem;
+        gap: 1rem;
+    }
+}
