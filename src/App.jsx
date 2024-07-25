@@ -11,6 +11,7 @@ import Sale from './components/stores/Sale';
 import Fenty from './components/stores/Fenty';
 import Child from './components/stores/Child';
 import DevelopePage from './components/develope/DevelopePage';
+import ProdFanty from './components/products/ProdFanty';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
             <Route path="/child" element={<Child />} />
             <Route path="/fenty" element={<Fenty />} />
             <Route path="/inprocess" element={<DevelopePage />} />
+            <Route path="/fenty/:id" element={<ProdFanty />} />
           </Routes>
         </div>
         <Footer />

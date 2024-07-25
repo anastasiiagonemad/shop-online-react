@@ -14,6 +14,10 @@
     gap: 1rem;
 }
 
+.product__card-item {
+    text-decoration: none;
+}
+
 .product__card-item_img {
     width: 100%;
     object-fit: fill;
@@ -36,6 +40,7 @@
 .product__card-item_desc-art {
     font-size: 0.8em;
     font-family: "Medium", sans-serif;
+    color: black;
 }
 
 .product__card-item_price {

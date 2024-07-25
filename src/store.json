@@ -325,37 +325,213 @@
       "id": 1,
       "art": "FENTY x PUMA Creeper Phatty In Session Sneakers",
       "price": "119,95 €",
-      "available": 10
+      "available": 0,
+      "description": "Class is in session. The new FENTY x PUMA Creeper Phatty by Rihanna is wrapped in soft corduroy and suede, with gold aglets and the classic Creeper sole. Out now in triple-bla...",
+      "style": "399870_03",
+      "colour": "PUMA Black-PUMA Gold",
+      "story": "Class is in session. The new FENTY x PUMA Creeper Phatty by Rihanna is wrapped in soft corduroy and suede, with gold aglets and the classic Creeper sole. Out now in triple-black and classic red and white, this is your new daily uniform.",
+      "details": [
+        "Corduroy upper",
+        "Silky suede tongue",
+        "Leather PUMA Formstrip on the side",
+        "Gum outsole",
+        "FENTY x PUMA co-branding details"
+      ],
+      "info": [
+        "Sockliner: 100% Synthetic",
+        "Outsole: 100% Thermoplastic Rubber",
+        "Upper: 80.63% Textile, 19.37% Cow leather",
+        "Lining: 100% Textile"
+      ],
+      "size": [
+        "35.5",
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49.5",
+        "51"
+      ]
     },
     {
       "id": 2,
       "art": "FENTY x PUMA Creeper Phatty In Session Sneakers",
       "price": "119,95 €",
-      "available": 2
+      "available": 2,
+      "description": "Class is in session. The new FENTY x PUMA Creeper Phatty by Rihanna is wrapped in soft corduroy and suede, with gold aglets and the classic Creeper sole. Out now in triple-bla...",
+      "style": "399870_04",
+      "colour": "Club Red-Warm White-Gum",
+      "story": "Class is in session. The new FENTY x PUMA Creeper Phatty by Rihanna is wrapped in soft corduroy and suede, with gold aglets and the classic Creeper sole. Out now in triple-black and classic red and white, this is your new daily uniform.",
+      "details": [
+        "Corduroy upper",
+        "Silky suede tongue",
+        "Leather PUMA Formstrip on the side",
+        "Gum outsole",
+        "FENTY x PUMA co-branding details"
+      ],
+      "info": [
+        "Sockliner: 100% Synthetic",
+        "Outsole: 100% Thermoplastic Rubber",
+        "Upper: 80.63% Textile, 19.37% Cow leather",
+        "Lining: 100% Textile"
+      ],
+      "size": [
+        "35.5",
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49.5",
+        "51"
+      ]
     },
     {
       "id": 3,
       "art": "FENTY x PUMA Creeper Phatty In Session Sneakers Kids",
       "price": "74,95 €",
-      "available": 1
+      "available": 1,
+      "description": "Class is in session. The new FENTY x PUMA Creeper Phatty by Rihanna is wrapped in soft corduroy and suede, with gold aglets and the classic Creeper sole. Out now in triple-bla...",
+      "style": "399874_03",
+      "colour": "PUMA Black-PUMA Gold",
+      "story": "Class is in session. The new FENTY x PUMA Creeper Phatty by Rihanna is wrapped in soft corduroy and suede, with gold aglets and the classic Creeper sole. Out now in triple-black and classic red and white, this is your new daily uniform.",
+      "details": [
+        "Corduroy upper",
+        "Silky suede tongue",
+        "Leather PUMA Formstrip on the side",
+        "Gum outsole",
+        "FENTY x PUMA co-branding details"
+      ],
+      "info": [
+        "Sockliner: 100% Synthetic",
+        "Outsole: 100% Thermoplastic Rubber",
+        "Upper: 80.63% Textile, 19.37% Cow leather",
+        "Lining: 100% Textile"
+      ],
+      "size": ["19", "20", "21", "22", "23", "24", "25", "26", "27"]
     },
     {
       "id": 4,
       "art": "FENTY x PUMA Creeper Phatty In Session Sneakers Kids",
       "price": "74,95 €",
-      "available": 4
+      "available": 4,
+      "description": "Class is in session. The new FENTY x PUMA Creeper Phatty by Rihanna is wrapped in soft corduroy and suede, with gold aglets and the classic Creeper sole. Out now in triple-bla...",
+      "style": "399873_03",
+      "colour": "Club Red-Warm White-Gum",
+      "story": "Class is in session. The new FENTY x PUMA Creeper Phatty by Rihanna is wrapped in soft corduroy and suede, with gold aglets and the classic Creeper sole. Out now in triple-black and classic red and white, this is your new daily uniform.",
+      "details": [
+        "Corduroy upper",
+        "Silky suede tongue",
+        "Leather PUMA Formstrip on the side",
+        "Gum outsole",
+        "FENTY x PUMA co-branding details"
+      ],
+      "info": [
+        "Sockliner: 100% Synthetic",
+        "Outsole: 100% Thermoplastic Rubber",
+        "Upper: 80.63% Textile, 19.37% Cow leather",
+        "Lining: 100% Textile"
+      ],
+      "size": [
+        "27.5",
+        "28",
+        "28.5",
+        "29",
+        "30",
+        "31",
+        "31.5",
+        "34",
+        "34",
+        "34.5",
+        "35"
+      ]
     },
     {
       "id": 5,
       "art": "FENTY x PUMA Creeper Phatty In Session Sneakers Toddler",
       "price": "64,95 €",
-      "available": 9
+      "available": 9,
+      "description": "Class is in session. The new FENTY x PUMA Creeper Phatty by Rihanna is wrapped in soft corduroy and suede, with gold aglets and the classic Creeper sole. Out now in triple-bla...",
+      "style": "399873_03",
+      "colour": "PUMA Black-PUMA Gold",
+      "story": "Class is in session. The new FENTY x PUMA Creeper Phatty by Rihanna is wrapped in soft corduroy and suede, with gold aglets and the classic Creeper sole. Out now in triple-black and classic red and white, this is your new daily uniform.",
+      "details": [
+        "Corduroy upper",
+        "Silky suede tongue",
+        "Leather PUMA Formstrip on the side",
+        "Gum outsole",
+        "FENTY x PUMA co-branding details"
+      ],
+      "info": [
+        "Sockliner: 100% Synthetic",
+        "Outsole: 100% Thermoplastic Rubber",
+        "Upper: 80.88% Textile, 19.12% Cow leather",
+        "Lining: 100% Textile"
+      ],
+      "size": [
+        "27.5",
+        "28",
+        "28.5",
+        "29",
+        "30",
+        "31",
+        "31.5",
+        "34",
+        "34",
+        "34.5",
+        "35"
+      ]
     },
     {
       "id": 6,
       "art": "FENTY x PUMA Creeper Phatty In Session Sneakers Toddler",
       "price": "64,95 €",
-      "available": 15
+      "available": 15,
+      "description": "Class is in session. The new FENTY x PUMA Creeper Phatty by Rihanna is wrapped in soft corduroy and suede, with gold aglets and the classic Creeper sole. Out now in triple-bla...",
+      "style": "399874_04",
+      "colour": "Club Red-Warm White-Gum",
+      "story": "Class is in session. The new FENTY x PUMA Creeper Phatty by Rihanna is wrapped in soft corduroy and suede, with gold aglets and the classic Creeper sole. Out now in triple-black and classic red and white, this is your new daily uniform.",
+      "details": [
+        "Corduroy upper",
+        "Silky suede tongue",
+        "Leather PUMA Formstrip on the side",
+        "Gum outsole",
+        "FENTY x PUMA co-branding details"
+      ],
+      "info": [
+        "Sockliner: 100% Synthetic",
+        "Outsole: 100% Thermoplastic Rubber",
+        "Upper: 80.63% Textile, 19.37% Cow leather",
+        "Lining: 100% Textile"
+      ],
+      "size": ["19", "20", "21", "22", "23", "24", "25", "26", "27"]
     }
   ],
   "sale": []

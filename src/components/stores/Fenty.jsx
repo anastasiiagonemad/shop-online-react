@@ -5,6 +5,7 @@ import riri from '../../assets/images/riri.avif';
 import riri2 from '../../assets/images/fenty_riri.avif';
 import fenty1 from '../../assets/images/fenty1.avif';
 import fenty2 from '../../assets/images/fenty2.avif';
+import { Link } from 'react-router-dom';
 
 const Fenty = () => {
   const fenty = store.fenty;
@@ -40,7 +41,11 @@ const Fenty = () => {
           {fenty.map((item) => {
             const image = require(`../../assets/images/store/fenty/id${item.id}.avif`);
             return (
-              <div key={item.id} className="product__card-item">
+              <Link
+                to={`/fenty/${item.id}`}
+                key={item.id}
+                className="product__card-item"
+              >
                 <img
                   className="product__card-item_img"
                   src={image}
@@ -55,7 +60,7 @@ const Fenty = () => {
                     <p className="product__card-item_rrp">{item.rrp}</p>
                   </div>
                 </div>
-              </div>
+              </Link>
             );
           })}
           <div className="product__card-img">
