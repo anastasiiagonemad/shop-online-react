@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shop-online-react/static/css/main.5f1302d1.css",
-    "main.js": "/shop-online-react/static/js/main.a4f7e034.js",
+    "main.css": "/shop-online-react/static/css/main.8d0111a1.css",
+    "main.js": "/shop-online-react/static/js/main.844597de.js",
     "static/media/FENTY.mp4": "/shop-online-react/static/media/FENTY.7ce8660efcf7cbf4d2a4.mp4",
     "static/media/id14.png": "/shop-online-react/static/media/id14.2fcdf32a02528dcc6d7f.png",
     "static/media/id9.png": "/shop-online-react/static/media/id9.d36ac43a98bbe1d0db0c.png",
@@ -46,6 +46,7 @@
     "static/media/id8.avif": "/shop-online-react/static/media/id8.8d0cc8d48058fd540a1e.avif",
     "static/media/id7.avif": "/shop-online-react/static/media/id7.b49b5e32ead791f5650b.avif",
     "static/media/id3.avif": "/shop-online-react/static/media/id3.4c6cf4644cc76f415f5a.avif",
+    "static/media/like-black.png": "/shop-online-react/static/media/like-black.c0e133affb12f7f827b1.png",
     "static/media/id13.avif": "/shop-online-react/static/media/id13.3546bb30c85d22ee10b2.avif",
     "static/media/DARE-TO-Womens-Oversized-Hoodie.avif": "/shop-online-react/static/media/DARE-TO-Womens-Oversized-Hoodie.4d59116e456485f4f183.avif",
     "static/media/id1.avif": "/shop-online-react/static/media/id1.cde72dd2265b17d5c392.avif",
@@ -58,11 +59,11 @@
     "static/media/id12.avif": "/shop-online-react/static/media/id12.7b24d183939962fd92d3.avif",
     "static/media/RUN-FAVORITE-Mens-Tee.avif": "/shop-online-react/static/media/RUN-FAVORITE-Mens-Tee.6c5018b110c10175c89f.avif",
     "index.html": "/shop-online-react/index.html",
-    "main.5f1302d1.css.map": "/shop-online-react/static/css/main.5f1302d1.css.map",
-    "main.a4f7e034.js.map": "/shop-online-react/static/js/main.a4f7e034.js.map"
+    "main.8d0111a1.css.map": "/shop-online-react/static/css/main.8d0111a1.css.map",
+    "main.844597de.js.map": "/shop-online-react/static/js/main.844597de.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f1302d1.css",
-    "static/js/main.a4f7e034.js"
+    "static/css/main.8d0111a1.css",
+    "static/js/main.844597de.js"
   ]
 }
