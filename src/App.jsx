@@ -1,5 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import SmoothScroll from './components/scroll/SmoothScroll';
 //Main
 import Header from './components/header/Header';
 import Footer from './components/footer/Footer';
@@ -12,7 +13,9 @@ import Fenty from './components/stores/Fenty';
 import Child from './components/stores/Child';
 import DevelopePage from './components/develope/DevelopePage';
 import ProdFanty from './components/products/ProdFanty';
-import SmoothScroll from './components/scroll/SmoothScroll';
+import ProdLadys from './components/products/ProdLadys';
+import ProdMan from './components/products/ProdMan';
+import ProdChild from './components/products/ProdChild';
 
 function App() {
   return (
@@ -30,6 +33,9 @@ function App() {
             <Route path="/fenty" element={<Fenty />} />
             <Route path="/inprocess" element={<DevelopePage />} />
             <Route path="/fenty/:id" element={<ProdFanty />} />
+            <Route path="/woman/:id" element={<ProdLadys />} />
+            <Route path="/man/:id" element={<ProdMan />} />
+            <Route path="/child/:id" element={<ProdChild />} />
           </Routes>
         </div>
         <Footer />

@@ -1,6 +1,7 @@
 import React from 'react';
 import './stores.css';
 import store from '../../store.json';
+import { Link } from 'react-router-dom';
 
 const Ladys = () => {
   const woman = store.woman;
@@ -14,7 +15,11 @@ const Ladys = () => {
           {woman.map((item) => {
             const image = require(`../../assets/images/store/woman/id${item.id}.png`);
             return (
-              <div key={item.id} className="product__card-item">
+              <Link
+                to={`/woman/${item.id}`}
+                key={item.id}
+                className="product__card-item"
+              >
                 <img
                   className="product__card-item_img"
                   src={image}
@@ -29,7 +34,7 @@ const Ladys = () => {
                     <p className="product__card-item_rrp">{item.rrp}</p>
                   </div>
                 </div>
-              </div>
+              </Link>
             );
           })}
         </div>

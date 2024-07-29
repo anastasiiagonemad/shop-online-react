@@ -5,105 +5,557 @@
       "art": "Softride Sway Running Shoe",
       "price": "41,95 €",
       "rrp": "RRP: 84,95 €",
-      "available": 10
+      "available": 10,
+      "description": "The PUMA Softride Sway is the more boldly stylised cousin to the other women-specific, comfort-forward trainers in the Softride line. The Sway has an exaggerated midsole and layered upper design that's full of colour and futuristic style. You'll never be more comfortable standing out in a crowd.",
+      "style": "379443_01",
+      "colour": "PUMA Black-Cool Dark Gray",
+      "story": "The PUMA Softride Sway is the more boldly stylised cousin to the other women-specific, comfort-forward trainers in the Softride line. The Sway has an exaggerated midsole and layered upper design that's full of colour and futuristic style. You'll never be more comfortable standing out in a crowd.",
+      "details": [
+        "The upper of the shoes is made with at least 20% recycled materials",
+        "SOFTRIDE: Soft foam designed for all-day cushioning and comfort",
+        "SOFTFOAM+: Step-in comfort sockliner designed to provide soft cushioning thanks to its extra thick heel"
+      ],
+      "info": [
+        "Jewel piece midsole branding",
+        "Moulded fine TPU cage for stability",
+        "Webbed lock down fit",
+        "Lace closure",
+        "Rounded toe"
+      ],
+      "size": [
+        "35.5",
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49.5",
+        "51"
+      ]
     },
     {
       "id": 2,
       "art": "Retaliate 2 Running Shoes",
       "price": "39,95 €",
       "rrp": "RRP: 79,95 €",
-      "available": 2
+      "available": 2,
+      "description": "Get road ready in the Retaliate 2 Running shoes. Lightweight and ergonomic, with a burrito collar construction for a foot-hugging fit, a comfortable, supportive midsole, rubber zoning for enhanced outsole traction, bold PUMA branding and a pull tab for easy on-and-off, you’ll have full command of whatever surface you’re training on.",
+      "style": "376676_05",
+      "colour": "Puma White-Puma White",
+      "story": "Get road ready in the Retaliate 2 Running shoes. Lightweight and ergonomic, with a burrito collar construction for a foot-hugging fit, a comfortable, supportive midsole, rubber zoning for enhanced outsole traction, bold PUMA branding and a pull tab for easy on-and-off, you’ll have full command of whatever surface you’re training on.",
+      "details": [
+        "CMEVA: PUMA's compression-moulded EVA material for lightweight performance",
+        "SoftFoam: PUMA's dual-density insole provides two unique layers of cushioning for customised comfort, fit and long-lasting durability"
+      ],
+      "info": [
+        "Modern burrito collar construction",
+        "Zoned rubber outsole for enhanced traction",
+        "Lace closure for a snug fit",
+        "Pull tab at back",
+        "PUMA Cat Logo at tongue",
+        "PUMA Wordmark at midfoot",
+        "PUMA Cat Logo at heel"
+      ],
+      "size": [
+        "35.5",
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49.5",
+        "51"
+      ]
     },
     {
       "id": 3,
       "art": "Disprese XT 3 Training Shoes",
       "price": "41,95 €",
       "rrp": "RRP: 69,95 €",
-      "available": 1
+      "available": 1,
+      "description": "You've put in the work, now kick the training up a notch with next-level gear in the Disperse XT 3 training shoes, the latest update to a line-up at the nexus of performance and design. This reimagining of the versions that came before features zoned rubber-traction for additional control and the same super lightweight materials for maximum agility. Train better and bolder with more eye-catching design elements.",
+      "style": "378813_01",
+      "colour": "PUMA Black-Cool Dark Gray",
+      "story": "You've put in the work, now kick the training up a notch with next-level gear in the Disperse XT 3 training shoes, the latest update to a line-up at the nexus of performance and design. This reimagining of the versions that came before features zoned rubber-traction for additional control and the same super lightweight materials for maximum agility. Train better and bolder with more eye-catching design elements.",
+      "details": [
+        "The upper of this shoe is made with at least 20% recycled materials as a step toward a better future.",
+        "SoftFoam+: PUMA's comfort sockliner for instant step-in and long-lasting comfort that provides soft cushioning every step of your day"
+      ],
+      "info": [
+        "Low boot construction",
+        "Zoned rubber outsole for improved traction",
+        "Lace closure",
+        "Shoe pronation: Neutral",
+        "Heel-to-toe drop: 8mm",
+        "Lining: 100% Textile; Outsole: 52.47% Synthetic, 47.53% Rubber; Upper: 66.88% Textile, 33.12% Synthetic; Sockliner: 100% Textile; Midsole: 100% Synthetic"
+      ],
+      "size": [
+        "35.5",
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49.5",
+        "51"
+      ]
     },
     {
       "id": 4,
       "art": "Puma Cali Court Leather Womens Sneakers",
       "price": "59,95 €",
       "rrp": "RRP: 99,95 €",
-      "available": 4
+      "available": 4,
+      "description": "Meet the PUMA Cali Court, your new favorite court classic. Standing at the intersection of sport, fashion, and streetwear, this sneaker brings the tennis vibes to any outfit and can be easily mixed and matched with other pieces to create an effortless look. This version features a full leather upper and fits in court side.",
+      "style": "393802_05",
+      "colour": "PUMA White",
+      "story": "Meet the PUMA Cali Court, your new favorite court classic. Standing at the intersection of sport, fashion, and streetwear, this sneaker brings the tennis vibes to any outfit and can be easily mixed and matched with other pieces to create an effortless look. This version features a full leather upper and fits in court side.",
+      "details": [
+        "Leather upper",
+        "Tumbled leather vamp, heel overlay and eyestay overlay",
+        "Leather quarter panel, tongue and formstrip",
+        "Perforated vamp and quarter panel details",
+        "EVA midsole",
+        "Rubber outsole"
+      ],
+      "info": [
+        "Sockliner: 100% Textile",
+        "Outsole: 100% Rubber",
+        "Upper: 77.27% Cow leather, 22.73% Synthetic",
+        "Lining: 100% Textile"
+      ],
+      "size": [
+        "35.5",
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49.5",
+        "51"
+      ]
     },
     {
       "id": 5,
       "art": "Future Rider Play On Sneakers",
       "price": "59,95 €",
       "rrp": "RRP: 99,95 €",
-      "available": 9
+      "available": 9,
+      "description": "Road Rider is the newest addition to the Rider family. It takes cues from Puma's archive of running sneakers from the 1970s, and features a retro upper that sits atop a sculpted comfortable EVA midsole. This upper feature a nylon base with a mix of suede and synthetic overlays.",
+      "style": "397377_06",
+      "colour": "Vapor Gray-Club Red",
+      "story": "Road Rider is the newest addition to the Rider family. It takes cues from Puma's archive of running sneakers from the 1970s, and features a retro upper that sits atop a sculpted comfortable EVA midsole. This upper feature a nylon base with a mix of suede and synthetic overlays.",
+      "details": [
+        "Regular fit",
+        "Suede toe caps and heels",
+        "Nylon base",
+        "EVA midsole",
+        "Suede tongue label with engraved and printed PUMA branding",
+        "Suede eyelets",
+        "Lycra lining and insole with screen-printed PUMA branding",
+        "Rubber outsole"
+      ],
+      "info": [
+        "Midsole: 100% Synthetic",
+        "Sockliner: 100% Textile",
+        "Outsole: 100% Rubber",
+        "Upper: 46.11% Cow leather, 32.44% Textile, 21.45% Synthetic",
+        "Lining: 100% Textile"
+      ],
+      "size": [
+        "35.5",
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49.5",
+        "51"
+      ]
     },
     {
       "id": 6,
       "art": "Mayze Sneakers Women",
       "price": "65,95 €",
       "rrp": "RRP: 109,95 €",
-      "available": 15
+      "available": 15,
+      "description": "Elevate your street style with the Puma Mayze Lth Wn's platform sneakers. These trendy platform trainers from Puma offer a bold and stylish look that will turn heads wherever you go. With a sleek leather upper and a chunky platform sole, these sneakers provide both fashion and comfort. Step up your shoe game with the Puma Mayze Lth Wn's and make a statement with every stride.",
+      "style": "381983_01",
+      "colour": "Puma White-Puma Black",
+      "story": "Elevate your street style with the Puma Mayze Lth Wn's platform sneakers. These trendy platform trainers from Puma offer a bold and stylish look that will turn heads wherever you go. With a sleek leather upper and a chunky platform sole, these sneakers provide both fashion and comfort. Step up your shoe game with the Puma Mayze Lth Wn's and make a statement with every stride.",
+      "details": [
+        "Leather upper with suede and synthetic overlays",
+        "Glossy eyelets",
+        "Elevated rubber midsole with textured tooling",
+        "Rubber outsole",
+        "Lace closure for a snug fit",
+        "PUMA branding at tongue",
+        "Foil-printed PUMA No.2 Logo at quarter",
+        "PUMA Formstrip at medial and lateral sides",
+        "PUMA Wordmark at tooling",
+        "Foil-printed PUMA Cat Logo at heel"
+      ],
+      "info": [
+        "Midsole: 100% Synthetic",
+        "Sockliner: 100% Textile",
+        "Outsole: 100% Thermoplastic Rubber",
+        "Upper: 70% Cow leather, 27% Synthetic, 3% Textile",
+        "Lining: 62.64% Textile, 37.36% Synthetic"
+      ],
+      "size": [
+        "35.5",
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49.5",
+        "51"
+      ]
     },
     {
       "id": 7,
       "art": "EVOKNIT 7 Short Tights Women",
       "price": "16,95 €",
       "rrp": "RRP: 42,95 €",
-      "available": 20
+      "available": 20,
+      "description": "The special seamless construction on these shorts is designed to minimise friction so you can feel your best – for fashion that moves with you.",
+      "style": "673093_01",
+      "colour": " PUMA Black",
+      "story": "The special seamless construction on these shorts is designed to minimise friction so you can feel your best – for fashion that moves with you.",
+      "details": [
+        "Seamless engineered shiny knit construction",
+        "Ribbed waistband with repeated PUMA wordmark and contrast piping",
+        "PUMA Cat Logo repeated along the leg"
+      ],
+      "info": ["Shell: 94% nylon, 6% elastane"],
+      "size": ["XS", "S", "M", "L", "XL"]
     },
     {
       "id": 8,
       "art": "PUMA SQUAD Women's Leggings",
       "price": "13,95 €",
       "rrp": "RRP: 34,95 €",
-      "available": 3
+      "available": 3,
+      "description": "The PUMA SQUAD leggings from PUMA embody the perfect combination of performance and ultimate comfort. Designed for dynamic women who stop at nothing, these leggings are more than just fitness clothing: they're a statement of your confidence and determination.",
+      "style": "677900_01",
+      "colour": "PUMA Black",
+      "story": "The PUMA SQUAD leggings from PUMA embody the perfect combination of performance and ultimate comfort. Designed for dynamic women who stop at nothing, these leggings are more than just fitness clothing: they're a statement of your confidence and determination.",
+      "details": [
+        "Tight fit",
+        "Full length",
+        "Presence of elastane for maximum freedom of movement",
+        "200.00 g/m²",
+        "PUMA Cat logo on the leg",
+        "Placed Graphic Rubber High Density Printing Suit"
+      ],
+      "info": ["Shell: 95% cotton, 5% elastane"],
+      "size": ["XS", "S", "M", "L", "XL"]
     },
     {
       "id": 9,
       "art": "EVOKNIT Crop Top Women",
       "price": "13,95 €",
       "rrp": "RRP: 34,95 €",
-      "available": 50
+      "available": 50,
+      "description": "Stand out from the crowd in a crop top that truly pops. Featuring a seamless shiny knit construction designed to minimise friction and enhance freedom of movement, this is fashion that moves with you. With subtle recurring branding, the big cat has its paws all over this one, too.",
+      "style": "673091_01",
+      "colour": "PUMA Black",
+      "story": "Stand out from the crowd in a crop top that truly pops. Featuring a seamless shiny knit construction designed to minimise friction and enhance freedom of movement, this is fashion that moves with you. With subtle recurring branding, the big cat has its paws all over this one, too.",
+      "details": [
+        "Seamless engineered shiny knit construction",
+        "Ribbed waistband with repeated PUMA word branding",
+        "Engineered PUMA Cat Logo on chest"
+      ],
+      "info": [
+        "Lining: 94% nylon, 6% elastane",
+        "Shell: 94% nylon, 6% elastane"
+      ],
+      "size": ["XS", "S", "M", "L", "XL"]
     },
     {
       "id": 10,
       "art": "HER Women's High-Waisted Leggings",
       "price": "15,95 €",
       "rrp": "RRP: 39,95 €",
-      "available": 30
+      "available": 30,
+      "description": "We've taken our Classics and updated it for HER. Carefully designed, these leggings elegantly hug your curves while providing optimal support thanks to their flattering high waist. With its form-fitting design and thoughtful details, it's ideal for sports days where style meets performance. The high waist offers a secure fit, while the all-way stretch fabric ensures maximum freedom of movement.",
+      "style": "677890_01",
+      "colour": "PUMA Black",
+      "story": "We've taken our Classics and updated it for HER. Carefully designed, these leggings elegantly hug your curves while providing optimal support thanks to their flattering high waist. With its form-fitting design and thoughtful details, it's ideal for sports days where style meets performance. The high waist offers a secure fit, while the all-way stretch fabric ensures maximum freedom of movement.",
+      "details": [
+        "Tight fit",
+        "High rise on the waist",
+        "Decorative piping for a unique design",
+        "220.00 gsm, single jersey",
+        "PUMA Cat logo on left leg",
+        "Straight legs"
+      ],
+      "info": ["Shell: 95% cotton, 5% elastane"],
+      "size": ["XS", "S", "M", "L", "XL"]
     },
     {
       "id": 11,
       "art": "Kaia 2.0 Mid Women's Sneakers",
       "price": "27,95 €",
       "rrp": "RRP: 69,95 €",
-      "available": 3
+      "available": 3,
+      "description": "Keep your style simple with the latest high-top version of our Kaia sneakers. They have a cushioned lining for all-day comfort and a small platform for extra elevation. The classic monochrome colour scheme makes them a versatile addition to any wardrobe.",
+      "style": "392325_01",
+      "colour": "PUMA White-PUMA Black",
+      "story": "Keep your style simple with the latest high-top version of our Kaia sneakers. They have a cushioned lining for all-day comfort and a small platform for extra elevation. The classic monochrome colour scheme makes them a versatile addition to any wardrobe.",
+      "details": [
+        "Textile upper",
+        "Synthetic midsole",
+        "Rubber outsole",
+        "PUMA Formstrip on the lateral sides",
+        "PUMA Wordmark on the heel"
+      ],
+      "info": [
+        "Midsole: 100% Synthetic",
+        "Sockliner: 100% Textile",
+        "Outsole: 100% Rubber",
+        "Upper: 84.89% Textile, 15.11% Synthetic",
+        "Lining: 100% Textile"
+      ],
+      "size": [
+        "35.5",
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49.5",
+        "51"
+      ]
     },
     {
       "id": 12,
       "art": "Cali Dream Leather Sneakers Women",
       "price": "42,95 €",
       "rrp": "RRP: 99,95 €",
-      "available": 10
+      "available": 10,
+      "description": "Dream of lazy days and West Coast vibes in this new edition of the Cali. A chunky tooled sole pairs with a genuine leather upper for a stylish look and a premium feel – all based around our timeless OG design.",
+      "style": "392730_20",
+      "colour": "PUMA White-Whisp Of Pink",
+      "story": "Dream of lazy days and West Coast vibes in this new edition of the Cali. A chunky tooled sole pairs with a genuine leather upper for a stylish look and a premium feel – all based around our timeless OG design.",
+      "details": [
+        "PUMA White-Whisp Of Pink",
+        "Rubber midsole",
+        "Rubber outsole",
+        "Synthetic leather PUMA Formstrip on the medial and lateral sides"
+      ],
+      "info": [
+        "Sockliner: 100% Textile",
+        "Outsole: 100% Rubber",
+        "Upper: 89.50% Synthetic, 10.50% Cow leather",
+        "Lining: 100% Textile"
+      ],
+      "size": [
+        "35.5",
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49.5",
+        "51"
+      ]
     },
     {
       "id": 13,
       "art": "RS-X Efekt PRM Sneakers",
       "price": "71,95 €",
       "rrp": "RRP: 119,95 €",
-      "available": 8
+      "available": 8,
+      "description": "The RS-X is back. The future-retro silhouette of this sneaker returns with a progressive aesthetic and angular details, complete with nubuck and suede overlays. The combo’s all about a disruptive design to showcase your disruptive style.",
+      "style": "390776_013",
+      "colour": "PUMA Black-Strong Gray",
+      "story": "The RS-X is back. The future-retro silhouette of this sneaker returns with a progressive aesthetic and angular details, complete with nubuck and suede overlays. The combo’s all about a disruptive design to showcase your disruptive style.",
+      "details": [
+        "Mesh upper with nubuck and suede overlays",
+        "PU midsole with RS Technology",
+        "Rubber outsole",
+        "PUMA Formstrip on lateral and medial sides",
+        "PUMA branding details"
+      ],
+      "info": [
+        "Midsole: 100% Synthetic",
+        "Sockliner: 100% Textile",
+        "Outsole: 100% Rubber",
+        "Upper: 45.50% Cow leather, 29.60% Textile, 24.90% Synthetic",
+        "Lining: 100% Textile"
+      ],
+      "size": [
+        "35.5",
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49.5",
+        "51"
+      ]
     },
     {
       "id": 14,
       "art": "UNWIND STUIDIO Women's Training Shorts",
       "price": "17,95 €",
       "rrp": "RRP: 44,95 €",
-      "available": 2
+      "available": 2,
+      "description": "Find your optimal flow and unwind when you're done in these women's shorts. The shorts are treated with moisture-wicking properties to keep you dry, whether you're in the studio or outdoors.",
+      "style": "524841_01",
+      "colour": "PUMA Black",
+      "story": "Find your optimal flow and unwind when you're done in these women's shorts. The shorts are treated with moisture-wicking properties to keep you dry, whether you're in the studio or outdoors.red and white, this is your new daily uniform.",
+      "details": [
+        "Regular fit",
+        "PUMA Align Graphics",
+        "Side slit hand pockets",
+        "5\" inseam",
+        "Above-knee length"
+      ],
+      "info": ["Shell: 77% polyester, 19% Modal, 4% elastane"],
+      "size": ["XS", "S", "M", "L", "XL"]
     },
     {
       "id": 15,
       "art": "PUMA POWER Women's Sweatshirt",
       "price": "19,95 €",
       "rrp": "RRP: 49,95 €",
-      "available": 30
+      "available": 30,
+      "description": "We've added a dose of edge to our traditional athletic silhouettes in our PUMA POWER collection. Unleash your full power in this sweatshirt, which has our standard, athletic fit, French terry material, and some cool colourblocked details with a PUMA graphic. Rep that casual and sporty look.",
+      "style": "679849_22",
+      "colour": "Turquoise Surf",
+      "story": "We've added a dose of edge to our traditional athletic silhouettes in our PUMA POWER collection. Unleash your full power in this sweatshirt, which has our standard, athletic fit, French terry material, and some cool colourblocked details with a PUMA graphic. Rep that casual and sporty look.",
+      "details": [
+        "Relaxed fit",
+        "280 gsm, French Terry",
+        "Crew neck",
+        "Long sleeves",
+        "Short length"
+      ],
+      "info": [
+        "Shell: 68% cotton, 32% polyester",
+        "Rib: 96% cotton, 4% elastane"
+      ],
+      "size": ["XS", "S", "M", "L", "XL"]
     }
   ],
   "man": [
@@ -112,105 +564,456 @@
       "art": "RS-X Triple Sneakers",
       "price": "76,95 €",
       "rrp": "RRP: 109,95 €",
-      "available": 10
+      "available": 10,
+      "description": "The PUMA Softride Sway is the more boldly stylised cousin to the other women-specific, comfort-forward trainers in the Softride line. The Sway has an exaggerated midsole and layered upper design that's full of colour and futuristic style. You'll never be more comfortable standing out in a crowd.",
+      "style": "379443_01",
+      "colour": "PUMA Black-Cool Dark Gray",
+      "story": "The PUMA Softride Sway is the more boldly stylised cousin to the other women-specific, comfort-forward trainers in the Softride line. The Sway has an exaggerated midsole and layered upper design that's full of colour and futuristic style. You'll never be more comfortable standing out in a crowd.",
+      "details": [
+        "The upper of the shoes is made with at least 20% recycled materials",
+        "SOFTRIDE: Soft foam designed for all-day cushioning and comfort",
+        "SOFTFOAM+: Step-in comfort sockliner designed to provide soft cushioning thanks to its extra thick heel"
+      ],
+      "info": [
+        "Jewel piece midsole branding",
+        "Moulded fine TPU cage for stability",
+        "Webbed lock down fit",
+        "Lace closure",
+        "Rounded toe"
+      ],
+      "size": [
+        "35.5",
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49.5",
+        "51"
+      ]
     },
     {
       "id": 2,
       "art": "RAD/CAL Men's Tee",
       "price": "39,95 €",
       "rrp": "RRP: 79,95 €",
-      "available": 2
+      "available": 2,
+      "description": "For trendsetters seeking effortless style, the RAD/CAL Tee is a must-have essential. Crafted for maximum comfort and an athletic fit, this lightweight cotton tee lets you showcase your casual cool wherever the day takes you.",
+      "style": "681617_69",
+      "colour": "Galactic Gray",
+      "story": "For trendsetters seeking effortless style, the RAD/CAL Tee is a must-have essential. Crafted for maximum comfort and an athletic fit, this lightweight cotton tee lets you showcase your casual cool wherever the day takes you.",
+      "details": [
+        "185 gsm, Single jersey",
+        "Crew neck",
+        "Short sleeve",
+        "Graphic gloss print on sleeve",
+        "Raglan sleeves with an extra cutline on the shoulders"
+      ],
+      "info": ["Shell: 100% cotton", "Rib: 70% cotton, 30% polyester"],
+      "size": ["XS", "S", "M", "L", "XL"]
     },
     {
       "id": 3,
       "art": "Essentials+ Tape Hoodie Men",
       "price": "23,95 €",
       "rrp": "RRP: 59,95 €",
-      "available": 1
+      "available": 1,
+      "description": "Equip yourself for everyday excellence in our Essentials+ collection, a line of cutting-edge street style must-haves upgraded with the latest on-trend accents and athletic technology. Our Essentials+ Tape Hoodie treads the line between simplicity and style with a classic cut and minimalist branding.",
+      "style": "847385_01",
+      "colour": "PUMA Black",
+      "story": "Equip yourself for everyday excellence in our Essentials+ collection, a line of cutting-edge street style must-haves upgraded with the latest on-trend accents and athletic technology. Our Essentials+ Tape Hoodie treads the line between simplicity and style with a classic cut and minimalist branding.",
+      "details": [
+        "Regular fit",
+        "Jersey-lined hood with elastic drawcord for an adjustable fit",
+        "Kangaroo pocket",
+        "Ribbed waistband and sleeve cuffs",
+        "PUMA No. 1 Logo rubber print at chest",
+        "Woven tape with repeated PUMA Wordmark and PUMA Cat Logo on sleeve"
+      ],
+      "info": [
+        "Hood Lining: 100% cotton",
+        "Shell: 68% cotton, 32% polyester",
+        "Rib: 97% cotton, 3% elastane"
+      ],
+      "size": ["XS", "S", "M", "L", "XL", "XXL", "3XL", "4XL"]
     },
     {
       "id": 4,
       "art": "EVOSTRIPE Men's Sweatpants",
       "price": "23,95 €",
       "rrp": "RRP: 59,95 €",
-      "available": 4
+      "available": 4,
+      "description": "Our EVOSTRIPE cutline is all about human performance and freedom of movement. These slim-fit sweatpants have the EVOSTRIPE on the outseam for improved articulation and maximum flexibility with less friction and tugging.",
+      "style": "678997_80",
+      "colour": "Mineral Gray",
+      "story": "Our EVOSTRIPE cutline is all about human performance and freedom of movement. These slim-fit sweatpants have the EVOSTRIPE on the outseam for improved articulation and maximum flexibility with less friction and tugging.",
+      "details": [
+        "Slim fit",
+        "320 gsm, spacer material",
+        "Elastic waistband with internal drawcord",
+        "Front zip pockets",
+        "Reflective PUMA logo"
+      ],
+      "info": ["Shell: 77% cotton, 23% polyester", "Pocket Bag: 100% cotton"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {
       "id": 5,
       "art": "CA Pro Mid Sneakers",
       "price": "49,95 €",
       "rrp": "RRP: 99,95 €",
-      "available": 9
+      "available": 9,
+      "description": "Our CA Pro takes inspiration from the original California we released back in the ‘80s. It has a look that’s both classic and modern, featuring a perforated toe – just like the OG – statement panelling, and the famous PUMA Formstrip. This pair has an raised collar, sitting just above the ankle to add a sporting edge.",
+      "style": "386759_02",
+      "colour": "Puma White-Puma Black",
+      "story": "Our CA Pro takes inspiration from the original California we released back in the ‘80s. It has a look that’s both classic and modern, featuring a perforated toe – just like the OG – statement panelling, and the famous PUMA Formstrip. This pair has an raised collar, sitting just above the ankle to add a sporting edge.",
+      "details": [
+        "Mid boot",
+        "Leather upper",
+        "Perforated toe",
+        "Rubber outsole",
+        "PUMA Formstrip on the medial and lateral side",
+        "PUMA Cat Logo on the heel"
+      ],
+      "info": [
+        "Lining: Textile",
+        "Outsole: Rubber",
+        "Midsole: Other",
+        "Upper: Other",
+        "Leather",
+        "Sockliner: Textile"
+      ],
+      "size": [
+        "35.5",
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49.5",
+        "51"
+      ]
     },
     {
       "id": 6,
       "art": "ULTRA ULTIMATE FG/AG Football Sneakers",
       "price": "175,95 €",
       "rrp": "RRP: 219,95 €",
-      "available": 15
+      "available": 15,
+      "description": "Let everyone know: there's a new KING in town. This football boot lives up to its name with the combination of non-animal-based K-BETTER™ upper material and GripControl 3D structure on the medial side for enhanced ball control and a touch that's fit for a KING. This version is part of the new Tricks Pack featuring statement-making different coloured boots.",
+      "style": "108068_01",
+      "colour": "Sun Stream-PUMA Black-Sunset Glow",
+      "story": "Let everyone know: there's a new KING in town. This football boot lives up to its name with the combination of non-animal-based K-BETTER™ upper material and GripControl 3D structure on the medial side for enhanced ball control and a touch that's fit for a KING. This version is part of the new Tricks Pack featuring statement-making different coloured boots.",
+      "details": [
+        "K-BETTER™ upper",
+        "Lightweight removable sockliner with NanoGrip technology keeps the foot from slipping inside the boot",
+        "OrthoLite® memory foam padding in the heel for improved comfort",
+        "Lightweight outsole with external heel counter, integrated stability spine, and conical studs for maximum manoeuvrability",
+        "Regular fit",
+        "Knitted, low-cut slip-on construction ensures a comfortable fit",
+        "FG/AG: Firm Ground/Artificial Ground"
+      ],
+      "info": [
+        "Sockliner: 100% Textile",
+        "Outsole: 100% Synthetic",
+        "Upper: 84.52% Synthetic, 15.48% Textile",
+        "Lining: 100% Synthetic"
+      ],
+      "size": [
+        "35.5",
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49.5",
+        "51"
+      ]
     },
     {
       "id": 7,
       "art": "Egypt 22/23 Replica Shorts",
       "price": "15,95 €",
       "rrp": "RRP: 39,95 €",
-      "available": 20
+      "available": 20,
+      "description": "Show up to the pitch looking, and playing, like Egypt’s star player with these replica shorts. They’re made from sweat-wicking material, to keep you cool in the tensest moments of the game, and finished with the team’s famous crest on the leg.",
+      "style": "766172_02",
+      "colour": " Puma White-Puma Black",
+      "story": "Show up to the pitch looking, and playing, like Egypt’s star player with these replica shorts. They’re made from sweat-wicking material, to keep you cool in the tensest moments of the game, and finished with the team’s famous crest on the leg.",
+      "details": [
+        "Regular fit",
+        "Elasticated waist",
+        "Twin needle hem",
+        "PUMA Cat Logo on the leg",
+        "Official team crest on the leg"
+      ],
+      "info": ["Shell: 100% polyester"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {
       "id": 8,
       "art": "BMW M Motorsport ESS T-shirt",
       "price": "17,95 €",
       "rrp": "RRP: 44,95 €",
-      "available": 3
+      "available": 3,
+      "description": "Add this logo tee to your essential BMW M Motorsport gear and stay track ready. The regular-fit men's tee comes in seasonal colours and celebrates the power and agility of BMW with the BMW M Motorsport insignia.",
+      "style": "621314_03",
+      "colour": "Medium Gray Heather",
+      "story": "Add this logo tee to your essential BMW M Motorsport gear and stay track ready. The regular-fit men's tee comes in seasonal colours and celebrates the power and agility of BMW with the BMW M Motorsport insignia.",
+      "details": [
+        "Regular fit",
+        "Single jersey",
+        "Short sleeves",
+        "BMW M Motorsport insignia"
+      ],
+      "info": ["Shell: 100% cotton", "Rib: 80% cotton, 20% polyester"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {
       "id": 9,
       "art": "Ghana 22/23 Promo Shorts",
       "price": "23,95 €",
       "rrp": "RRP: 59,95 €",
-      "available": 50
+      "available": 50,
+      "description": "Gear up in old-school Ghana cool. Inspired by iconic moments from national team history, this 2022 Ghana Home jersey features a repositioned Black Star at the center and sleeve cuffs in the colours of the national flag.",
+      "style": "766172_02",
+      "colour": " Puma White-Puma Black",
+      "story": "Gear up in old-school Ghana cool. Inspired by iconic moments from national team history, this 2022 Ghana Home jersey features a repositioned Black Star at the center and sleeve cuffs in the colours of the national flag.",
+      "details": [
+        "Regular fit",
+        "Elasticated waist",
+        "Twin needle hem",
+        "PUMA Cat Logo on the leg",
+        "Official team crest on the leg"
+      ],
+      "info": ["Shell: 100% polyester"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {
       "id": 10,
       "art": "PUMA TEAM Men's Graphic T-shirt",
       "price": "16,95 €",
       "rrp": "RRP: 34,95 €",
-      "available": 30
+      "available": 30,
+      "description": "PUMA has been defining sports since 1948, and this PUMA Team graphic tee is a retro-inspired gem that proudly shows that heritage. This regular-fit men's tee features the PUMA logo on the left sleeve and a fun rubber graphic print on the chest and back.",
+      "style": "624395_04",
+      "colour": "Light Gray Heather",
+      "story": "PUMA has been defining sports since 1948, and this PUMA Team graphic tee is a retro-inspired gem that proudly shows that heritage. This regular-fit men's tee features the PUMA logo on the left sleeve and a fun rubber graphic print on the chest and back.",
+      "details": [
+        "Relaxed fit",
+        "Crew neck",
+        "Graphic rubber print on chest and back body",
+        "Short sleeves",
+        "Reflective No.1 Logo on left sleeve",
+        "180 gsm, single jersey"
+      ],
+      "info": ["Shell: 100% cotton", "Rib: 80% cotton, 20% polyester"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {
       "id": 11,
       "art": "Capri Royale Sneakers",
       "price": "47,95 €",
       "rrp": "RRP: 79,95 €",
-      "available": 3
+      "available": 3,
+      "description": "Simple and streamlined, the Capri Royale sneakers feature a canvas upper with suede detailing and a breathable mesh liner. The two-tone colour scheme makes them versatile and easy to wear with a range of casual outfits.",
+      "style": "392435_06",
+      "colour": "PUMA White-Warm White",
+      "story": "Simple and streamlined, the Capri Royale sneakers feature a canvas upper with suede detailing and a breathable mesh liner. The two-tone colour scheme makes them versatile and easy to wear with a range of casual outfits.",
+      "details": [
+        "Textile and leather upper",
+        "Rubber midsole",
+        "Rubber outsole",
+        "PUMA Formstrip on the lateral sides",
+        "PUMA Cat Logo on the tongue"
+      ],
+      "info": [
+        "Sockliner: 100% Textile",
+        "Outsole: 100% Rubber",
+        "Upper: 75% Textile, 13% Cow leather, 12% Synthetic",
+        "Lining: 100% Textile"
+      ],
+      "size": [
+        "35.5",
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49.5",
+        "51"
+      ]
     },
     {
       "id": 12,
       "art": "PUMA POWER Colorblock Men's Hoodie",
       "price": "23,95 €",
       "rrp": "RRP: 59,95 €",
-      "available": 10
+      "available": 10,
+      "description": "We've added a dose of edge to our traditional athletic silhouettes in our PUMA POWER collection. Unleash your full power in this hoodie, which has our standard, athletic fit, French terry material, and some cool colourblocked details.",
+      "style": "678931_14",
+      "colour": "Club Navy",
+      "story": "We've added a dose of edge to our traditional athletic silhouettes in our PUMA POWER collection. Unleash your full power in this hoodie, which has our standard, athletic fit, French terry material, and some cool colourblocked details.",
+      "details": [
+        "Regular fit",
+        "280 gsm, French Terry",
+        "Hood with drawcords",
+        "Long sleeves",
+        "Kangaroo pocket",
+        "Regular length"
+      ],
+      "info": [
+        "Shell: 68% cotton, 32% polyester",
+        "Rib: 96% cotton, 4% elastane"
+      ],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {
       "id": 13,
       "art": "Exotek NITRO Energy Sneakers",
       "price": "65,95 €",
       "rrp": "RRP: 109,95 €",
-      "available": 8
+      "available": 8,
+      "description": "Exotek NITRO™ is an architectural solution to tooling construction, it protects and stabilizes a soft EVA foam infused with NITRO™. The structural ‘cage’ allows for a super soft, squishy inner midsole material. As the foam compresses, the cage provides the outer structure and stability needed whilst giving the wearer all the benefits of enhanced comfort.​ This silhouette draws parallels from both architecture and nature. The exposed structures of brutalist architecture, the rib cage of a human body protecting vital organs. This pack features a mesh base with a printed gradient effect and synthetic overlays.",
+      "style": "396425_01",
+      "colour": "PUMA Black-Active Red",
+      "story": "Exotek NITRO™ is an architectural solution to tooling construction, it protects and stabilizes a soft EVA foam infused with NITRO™. The structural ‘cage’ allows for a super soft, squishy inner midsole material. As the foam compresses, the cage provides the outer structure and stability needed whilst giving the wearer all the benefits of enhanced comfort.​ This silhouette draws parallels from both architecture and nature. The exposed structures of brutalist architecture, the rib cage of a human body protecting vital organs. This pack features a mesh base with a printed gradient effect and synthetic overlays.",
+      "details": [
+        "Regular fit",
+        "Mesh base with printed gradient effect",
+        "PUMA Formstrip injected with TPU",
+        "Synthetic leather overlays",
+        "Raised areas on the toe and eyelets",
+        "Hot cut details on the eyelets",
+        "Printed line on the heel",
+        "PUMA Cat logo printed on the heel",
+        "Mesh tongue with textile covering and nylon webbing",
+        "PUMA logo printed on tongue strap"
+      ],
+      "info": [
+        "Midsole: 100% Synthetic",
+        "Sockliner: 100% Textile",
+        "Outsole: 100% Thermoplastic Rubber",
+        "Upper: 76.58% Synthetic, 23.42% Textile",
+        "Lining: 100% Textile"
+      ],
+      "size": [
+        "35.5",
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49.5",
+        "51"
+      ]
     },
     {
       "id": 14,
       "art": "PUMA x PERKS AND MINI Tee",
       "price": "31,95 €",
       "rrp": "RRP: 64,95 €",
-      "available": 2
+      "available": 2,
+      "description": "For the final season of PUMA x PERKS AND MINI, we’re back to the PAM/PUMA BIO/VERSE to explore creativity, nature, and change-making. The collection draws inspiration from the past three drops and features bold logos and beautiful artwork that takes you seamlessly from the natural world to the digital world – and into colliding worlds of sport, activity, and play. The tee has a relaxed fit and wild graphics on the front and back. It's perfect for your BIO/VERSE.",
+      "style": "624070_49",
+      "colour": " Crushed Berry",
+      "story": "For the final season of PUMA x PERKS AND MINI, we’re back to the PAM/PUMA BIO/VERSE to explore creativity, nature, and change-making. The collection draws inspiration from the past three drops and features bold logos and beautiful artwork that takes you seamlessly from the natural world to the digital world – and into colliding worlds of sport, activity, and play. The tee has a relaxed fit and wild graphics on the front and back. It's perfect for your BIO/VERSE.",
+      "details": [
+        "Relaxed fit",
+        "250 gsm, single jersey",
+        "Crew neck",
+        "Short sleeves",
+        "Graphic print on front chest and centre back",
+        "PUMA x PERKS AND MINI co-branding"
+      ],
+      "info": ["Shell: 100% cotton", "Rib: 71% cotton, 29% polyester"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {
       "id": 15,
       "art": "PUMA x PERKS AND MINI Tee",
       "price": "31,95 €",
       "rrp": "RRP: 64,95 €",
-      "available": 30
+      "available": 30,
+      "description": "For the final season of PUMA x PERKS AND MINI, we’re back to the PAM/PUMA BIO/VERSE to explore creativity, nature, and change-making. The collection draws inspiration from the past three drops and features bold logos and beautiful artwork that takes you seamlessly from the natural world to the digital world – and into colliding worlds of sport, activity, and play. The tee has a relaxed fit and wild graphics on the front and back. It's perfect for your BIO/VERSE.",
+      "style": "624070_49",
+      "colour": " Crushed Berry",
+      "story": "For the final season of PUMA x PERKS AND MINI, we’re back to the PAM/PUMA BIO/VERSE to explore creativity, nature, and change-making. The collection draws inspiration from the past three drops and features bold logos and beautiful artwork that takes you seamlessly from the natural world to the digital world – and into colliding worlds of sport, activity, and play. The tee has a relaxed fit and wild graphics on the front and back. It's perfect for your BIO/VERSE.",
+      "details": [
+        "Relaxed fit",
+        "250 gsm, single jersey",
+        "Crew neck",
+        "Short sleeves",
+        "Graphic print on front chest and centre back",
+        "PUMA x PERKS AND MINI co-branding"
+      ],
+      "info": ["Shell: 100% cotton", "Rib: 71% cotton, 29% polyester"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"]
     }
   ],
   "child": [
@@ -219,105 +1022,347 @@
       "art": "Anzarun Lite Kids' Trainers",
       "price": "19,95 €",
       "rrp": "RRP: 39,95 €",
-      "available": 10
+      "available": 10,
+      "description": "Deconstructed and refined, the Anzarun Lite Trainers ensure a clean look that's perfect for every occasion. Featuring a breathable mesh upper, a cushy EVA midsole and true heritage PUMA branding throughout, this trainer is comfort and style combined.",
+      "style": "372004_35",
+      "colour": "Gray Fog-PUMA White-Club Red",
+      "story": "Deconstructed and refined, the Anzarun Lite Trainers ensure a clean look that's perfect for every occasion. Featuring a breathable mesh upper, a cushy EVA midsole and true heritage PUMA branding throughout, this trainer is comfort and style combined.",
+      "details": [
+        "Low boot",
+        "Mesh-based textile upper",
+        "EVA midsole for comfort",
+        "Non-marking rubber outsole for grip",
+        "PUMA Wordmark on tongue",
+        "PUMA Formstrip at lateral side",
+        "PUMA Youth style: recommended for older kids between 8 and 16 years"
+      ],
+      "info": [
+        "Sockliner: 100% Textile",
+        "Outsole: 100% Rubber",
+        "Upper: 74.92% Textile, 25.08% Synthetic",
+        "Lining: 100% Textile"
+      ],
+      "size": ["35.5", "36", "37", "37.5", "38", "38.5", "39"]
     },
     {
       "id": 2,
       "art": "ESS+ BLOSSOM Youth Short Tee",
       "price": "15,95 €",
       "rrp": "RRP: 22,95 €",
-      "available": 2
+      "available": 2,
+      "description": "We've taken our essential styles and levelled them up with our ESS+ collection. This time we've hit up the garden for some inspiration. This simple tee reps a PUMA logo and our relaxed fit for a casual take on the athetlic, sporty look that you know and love. A blossom print in the PUMA logo rounds it all together.",
+      "style": "680439_60",
+      "colour": "Grape Mist",
+      "story": "We've taken our essential styles and levelled them up with our ESS+ collection. This time we've hit up the garden for some inspiration. This simple tee reps a PUMA logo and our relaxed fit for a casual take on the athetlic, sporty look that you know and love. A blossom print in the PUMA logo rounds it all together.",
+      "details": [
+        "Relaxed fit",
+        "Jersey",
+        "Rib Crew Neck",
+        "Short sleeves",
+        "Short Length",
+        "PUMA Youth: Recommended for older kids between 8 and 16 years"
+      ],
+      "info": ["Shell: 100% cotton", "Rib: 96% cotton, 4% elastane"],
+      "size": ["128", "140", "152", "164", "176"]
     },
     {
       "id": 3,
       "art": "ESS+ BLOSSOM Youth Short Tee",
       "price": "15,95 €",
       "rrp": "RRP: 22,95 €",
-      "available": 1
+      "available": 1,
+      "description": "We've taken our essential styles and levelled them up with our ESS+ collection. This time we've hit up the garden for some inspiration. This simple tee reps a PUMA logo and our relaxed fit for a casual take on the athetlic, sporty look that you know and love. A blossom print in the PUMA logo rounds it all together.",
+      "style": "680439_60",
+      "colour": "Turquoise Surf",
+      "story": "We've taken our essential styles and levelled them up with our ESS+ collection. This time we've hit up the garden for some inspiration. This simple tee reps a PUMA logo and our relaxed fit for a casual take on the athetlic, sporty look that you know and love. A blossom print in the PUMA logo rounds it all together.",
+      "details": [
+        "Relaxed fit",
+        "Jersey",
+        "Rib Crew Neck",
+        "Short sleeves",
+        "Short Length",
+        "PUMA Youth: Recommended for older kids between 8 and 16 years"
+      ],
+      "info": ["Shell: 100% cotton", "Rib: 96% cotton, 4% elastane"],
+      "size": ["128", "140", "152", "164", "176"]
     },
     {
       "id": 4,
       "art": "PUMA POWER Youth Sweatshirt",
       "price": "17,95 €",
       "rrp": "RRP: 44,95 €",
-      "available": 4
+      "available": 4,
+      "description": "We've added a dose of edge to our traditional athletic silhouettes in our PUMA POWER collection. Unleash your full power in this crew neck sweatshirt, which has our relaxed, athletic fit and some cool colourblocked details with a PUMA graphic.",
+      "style": "679361_60",
+      "colour": "Grape Mist",
+      "story": "We've added a dose of edge to our traditional athletic silhouettes in our PUMA POWER collection. Unleash your full power in this crew neck sweatshirt, which has our relaxed, athletic fit and some cool colourblocked details with a PUMA graphic.",
+      "details": [
+        "Relaxed fit",
+        "French Terry",
+        "Rib Crew Neck",
+        "Long sleeves",
+        "Rib Cuffs",
+        "Regular length",
+        "PUMA Youth: Recommended for older kids between 8 and 16 years"
+      ],
+      "info": [
+        "Shell: 68% cotton, 32% polyester",
+        "Rib: 96% cotton, 4% elastane"
+      ],
+      "size": ["128", "140", "152", "164", "176"]
     },
     {
       "id": 5,
       "art": "PUMA POWER Youth Sweatshirt",
       "price": "17,95 €",
       "rrp": "RRP: 44,95 €",
-      "available": 9
+      "available": 9,
+      "description": "We've added a dose of edge to our traditional athletic silhouettes in our PUMA POWER collection. Unleash your full power in this crew neck sweatshirt, which has our relaxed, athletic fit and some cool colourblocked details with a PUMA graphic.",
+      "style": "679361_22",
+      "colour": "Turquoise Surf",
+      "story": "We've added a dose of edge to our traditional athletic silhouettes in our PUMA POWER collection. Unleash your full power in this crew neck sweatshirt, which has our relaxed, athletic fit and some cool colourblocked details with a PUMA graphic.",
+      "details": [
+        "Relaxed fit",
+        "French Terry",
+        "Rib Crew Neck",
+        "Long sleeves",
+        "Rib Cuffs",
+        "Regular length",
+        "PUMA Youth: Recommended for older kids between 8 and 16 years"
+      ],
+      "info": [
+        "Shell: 68% cotton, 32% polyester",
+        "Rib: 96% cotton, 4% elastane"
+      ],
+      "size": ["128", "140", "152", "164", "176"]
     },
     {
       "id": 6,
       "art": "PUMA POWER Youth Graphic Sweatshirt",
       "price": "17,95 €",
       "rrp": "RRP: 44,95 €",
-      "available": 15
+      "available": 15,
+      "description": "We've added a dose of edge to our traditional athletic silhouettes in our PUMA POWER collection. Unleash your full power in this crew neck sweatshirt, which has our relaxed, athletic fit and some cool colourblocked details with a PUMA graphic.",
+      "style": "679255_51",
+      "colour": "PUMA Black",
+      "story": "We've added a dose of edge to our traditional athletic silhouettes in our PUMA POWER collection. Unleash your full power in this crew neck sweatshirt, which has our relaxed, athletic fit and some cool colourblocked details with a PUMA graphic.",
+      "details": [
+        "Relaxed fit",
+        "French Terry",
+        "Rib Crew Neck",
+        "Long sleeves",
+        "Rib Cuffs",
+        "Regular length",
+        "PUMA Youth: Recommended for older kids between 8 and 16 years"
+      ],
+      "info": [
+        "Shell: 68% cotton, 32% polyester",
+        "Rib: 97% cotton, 3% elastane"
+      ],
+      "size": ["128", "140", "152", "164", "176"]
     },
     {
       "id": 7,
       "art": "ESS+ Blossom Girls' Dress",
       "price": "20,95 €",
       "rrp": "RRP: 29,95 €",
-      "available": 20
+      "available": 20,
+      "description": "Discover elegance incarnate with the Blossom dress from the ESS+ collection, designed especially for young budding fashionistas. This exquisite dress embodies the very essence of spring with its simple, effective design and slim fit. She will accompany your child as soon as the sun comes out.",
+      "style": "679855_22",
+      "colour": "Turquoise Surf",
+      "story": "Discover elegance incarnate with the Blossom dress from the ESS+ collection, designed especially for young budding fashionistas. This exquisite dress embodies the very essence of spring with its simple, effective design and slim fit. She will accompany your child as soon as the sun comes out.",
+      "details": [
+        "Slim fit",
+        "Presence of elastane for greater comfort and freedom of movement",
+        "Rubber pattern on the front",
+        "200 gsm, single jersey",
+        "PUMA Youth: recommended for children between 8 and 16 years old"
+      ],
+      "info": [
+        "Shell: 95% cotton, 5% elastane",
+        "Collar: 96% cotton, 4% elastane"
+      ],
+      "size": ["128", "140", "152", "164", "176"]
     },
     {
       "id": 8,
       "art": "ESS+ BLOSSOM Girls' Shorts",
       "price": "16,95 €",
       "rrp": "RRP: 27,95 €",
-      "available": 3
+      "available": 3,
+      "description": "These shorts capture all the energy of the ESS+ collection. It is designed for young sportsmen and women, and offers the perfect blend of style and comfort. The elastic waist guarantees an optimal fit, while the modern fabric offers complete freedom of movement. Whether for sunny days or lively adventures, these shorts are a future essential in your child or teenager's wardrobe.",
+      "style": "679820_60",
+      "colour": "Grape Mist",
+      "story": "These shorts capture all the energy of the ESS+ collection. It is designed for young sportsmen and women, and offers the perfect blend of style and comfort. The elastic waist guarantees an optimal fit, while the modern fabric offers complete freedom of movement. Whether for sunny days or lively adventures, these shorts are a future essential in your child or teenager's wardrobe.",
+      "details": [
+        "Relaxed fit",
+        "Drawstring waist",
+        "Elastic waist with external drawstrings for personalized comfort",
+        "280 gsm, French terry",
+        "Full pattern"
+      ],
+      "info": [
+        "Shell: 68% cotton, 32% polyester",
+        "Pocket Bag: 100% cotton",
+        "Rib: 96% cotton, 4% elastane"
+      ],
+      "size": ["128", "140", "152", "164", "176"]
     },
     {
       "id": 9,
       "art": "ESS+ BLOSSOM Youth Short Tee",
       "price": "15,95 €",
       "rrp": "RRP: 22,95 €",
-      "available": 50
+      "available": 50,
+      "description": "We've taken our essential styles and levelled them up with our ESS+ collection. This time we've hit up the garden for some inspiration. This simple tee reps a PUMA logo and our relaxed fit for a casual take on the athetlic, sporty look that you know and love. A blossom print in the PUMA logo rounds it all together.",
+      "style": "680439_60",
+      "colour": "Grape Mist",
+      "story": "We've taken our essential styles and levelled them up with our ESS+ collection. This time we've hit up the garden for some inspiration. This simple tee reps a PUMA logo and our relaxed fit for a casual take on the athetlic, sporty look that you know and love. A blossom print in the PUMA logo rounds it all together.",
+      "details": [
+        "Relaxed fit",
+        "Jersey",
+        "Rib Crew Neck",
+        "Short sleeves",
+        "Short Length",
+        "PUMA Youth: Recommended for older kids between 8 and 16 years"
+      ],
+      "info": ["Shell: 100% cotton", "Rib: 96% cotton, 4% elastane"],
+      "size": ["128", "140", "152", "164", "176"]
     },
     {
       "id": 10,
       "art": "GRAPHICS Year of Sports Youth Tee",
       "price": "13,95 €",
       "rrp": "RRP: 22,95 €",
-      "available": 30
+      "available": 30,
+      "description": "Celebrate PUMA and a bit of your playful side with this GRAPHICS tee, which features a scenic graphic that references PUMA's long and proud connection to athletics for this Year of Sports.",
+      "style": "680299_02",
+      "colour": "PUMA White",
+      "story": "Celebrate PUMA and a bit of your playful side with this GRAPHICS tee, which features a scenic graphic that references PUMA's long and proud connection to athletics for this Year of Sports.",
+      "details": [
+        "Relaxed fit",
+        "Jersey",
+        "Rib Crew Neck",
+        "Short sleeves",
+        "Short Length",
+        "PUMA Youth: Recommended for older kids between 8 and 16 years"
+      ],
+      "info": ["Shell: 100% cotton", "Rib: 80% cotton, 20% polyester"],
+      "size": ["128", "140", "152", "164", "176"]
     },
     {
       "id": 11,
       "art": "Minicats Essentials Raglan Jogger Set Toddler",
       "price": "22,95 €",
       "rrp": "RRP: 37,95 €",
-      "available": 3
+      "available": 3,
+      "description": "This cute-as-can-be tracksuit set nails the streetstyle look in miniature. Made for the youngest generation of PUMA fans, this two-piece combo combines athletic ribbed cuffs and hems with contemporary colour-blocking and stylish raglan sleeves, alongside loud and proud PUMA branding across the chest. Both the top and bottoms are made with a super-soft cotton blend.",
+      "style": "846143_18",
+      "colour": "Cobalt Glaze",
+      "story": "This cute-as-can-be tracksuit set nails the streetstyle look in miniature. Made for the youngest generation of PUMA fans, this two-piece combo combines athletic ribbed cuffs and hems with contemporary colour-blocking and stylish raglan sleeves, alongside loud and proud PUMA branding across the chest. Both the top and bottoms are made with a super-soft cotton blend.",
+      "details": [
+        "Regular fit top",
+        "Slim fit pants",
+        "Ribbed crew neck, sleeve cuffs and waistband on top",
+        "Button placket at shoulder seam for easy in and out (for sizes 62-86)",
+        "Ribbed cuffs on bottoms",
+        "Raglan sleeves for freedom of movement",
+        "Elastic waistband with internal drawcord for customised comfort",
+        "PUMA No. 1 Logo rubber print at chest",
+        "PUMA No. 1 Logo rubber print at left leg"
+      ],
+      "info": [
+        "Shell: 68% cotton, 32% polyester",
+        "Rib: 96% cotton, 4% elastane"
+      ],
+      "size": ["62", "68", "74", "80", "86", "92", "98", "104"]
     },
     {
       "id": 12,
       "art": "Minicats Essentials Raglan Jogger Set Toddler",
       "price": "22,95 €",
       "rrp": "RRP: 37,95 €",
-      "available": 10
+      "available": 10,
+      "description": "This cute-as-can-be tracksuit set nails the streetstyle look in miniature. Made for the youngest generation of PUMA fans, this two-piece combo combines athletic ribbed cuffs and hems with contemporary colour-blocking and stylish raglan sleeves, alongside loud and proud PUMA branding across the chest. Both the top and bottoms are made with a super-soft cotton blend.",
+      "style": "846143_26",
+      "colour": "Fast Pink",
+      "story": "This cute-as-can-be tracksuit set nails the streetstyle look in miniature. Made for the youngest generation of PUMA fans, this two-piece combo combines athletic ribbed cuffs and hems with contemporary colour-blocking and stylish raglan sleeves, alongside loud and proud PUMA branding across the chest. Both the top and bottoms are made with a super-soft cotton blend.",
+      "details": [
+        "Regular fit top",
+        "Slim fit pants",
+        "Ribbed crew neck, sleeve cuffs and waistband on top",
+        "Button placket at shoulder seam for easy in and out (for sizes 62-86)",
+        "Ribbed cuffs on bottoms",
+        "Raglan sleeves for freedom of movement",
+        "Elastic waistband with internal drawcord for customised comfort",
+        "PUMA No. 1 Logo rubber print at chest",
+        "PUMA No. 1 Logo rubber print at left leg"
+      ],
+      "info": [
+        "Shell: 68% cotton, 32% polyester",
+        "Rib: 96% cotton, 4% elastane"
+      ],
+      "size": ["62", "68", "74", "80", "86", "92", "98", "104"]
     },
     {
       "id": 13,
       "art": "AC Milan FtblArchive Youth Track Pants",
       "price": "41,95 €",
       "rrp": "RRP: 59,95 €",
-      "available": 8
+      "available": 8,
+      "description": "We’ve dug into the ‘70s archive to guide the latest FtblArchive collection. This AC Milan track jacket celebrates the retro style with signature panelling on the legs, a classic silhouette, and features the club crest on the leg.",
+      "style": "774047_05",
+      "colour": "Team Regal Red-Tango Red",
+      "story": "We’ve dug into the ‘70s archive to guide the latest FtblArchive collection. This AC Milan track jacket celebrates the retro style with signature panelling on the legs, a classic silhouette, and features the club crest on the leg.",
+      "details": [
+        "Regular fit",
+        "320 gsm, interlock material",
+        "Elastic waistband",
+        "Side pockets",
+        "Official team branding",
+        "Open cuffs",
+        "PUMA Youth: Recommended for older kids between 8 and 16 years"
+      ],
+      "info": ["Shell: 76% cotton, 24% polyester", "Pocket Bag: 100% cotton"],
+      "size": ["128", "140", "152", "164", "176"]
     },
     {
       "id": 14,
       "art": "Fenerbahçe S.K. 23/24 Away Jersey Youth",
       "price": "29,95 €",
       "rrp": "RRP: 74,95 €",
-      "available": 2
+      "available": 2,
+      "description": "The 23/24 Fenerbahçe away jersey takes you behind the badge to explore what being a true fan is all about – on and off the pitch. So, gear up and show your allegiance to Fenerbahçe.",
+      "style": "772007_04",
+      "colour": "Blazing Yellow-Medieval Blue",
+      "story": "The 23/24 Fenerbahçe away jersey takes you behind the badge to explore what being a true fan is all about – on and off the pitch. So, gear up and show your allegiance to Fenerbahçe.",
+      "details": ["Regular fit", "V-neck", "Official team crest on chest"],
+      "info": ["Shell: 100% polyester", "Rib: 100% polyester"],
+      "size": ["128", "140", "152", "164", "176"]
     },
     {
       "id": 15,
       "art": "ESS+ BLOSSOM Girls' Shorts",
       "price": "13,95 €",
       "rrp": "RRP: 27,95 €",
-      "available": 30
+      "available": 30,
+      "description": "These shorts capture all the energy of the ESS+ collection. It is designed for young sportsmen and women, and offers the perfect blend of style and comfort. The elastic waist guarantees an optimal fit, while the modern fabric offers complete freedom of movement. Whether for sunny days or lively adventures, these shorts are a future essential in your child or teenager's wardrobe.",
+      "style": "679820_63",
+      "colour": "Turquoise Surf",
+      "story": "These shorts capture all the energy of the ESS+ collection. It is designed for young sportsmen and women, and offers the perfect blend of style and comfort. The elastic waist guarantees an optimal fit, while the modern fabric offers complete freedom of movement. Whether for sunny days or lively adventures, these shorts are a future essential in your child or teenager's wardrobe.",
+      "details": [
+        "Relaxed fit",
+        "Drawstring waist",
+        "Elastic waist with external drawstrings for personalized comfort",
+        "280 gsm, French terry",
+        "Full pattern"
+      ],
+      "info": [
+        "Shell: 68% cotton, 32% polyester",
+        "Pocket Bag: 100% cotton",
+        "Rib: 96% cotton, 4% elastane"
+      ],
+      "size": ["128", "140", "152", "164", "176"]
     }
   ],
   "fenty": [

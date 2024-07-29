@@ -8,7 +8,7 @@ import heart from '../../assets/images/like-black.png';
 import open from '../../assets/images/plus-icon.png';
 import close from '../../assets/images/minus-icon.png';
 
-const ProdFanty = () => {
+const ProdChild = () => {
   const [isOpenDesc, setIsOpenDesc] = useState(false);
   const [isOpenInfo, setIsOpenInfo] = useState(false);
 
@@ -23,7 +23,7 @@ const ProdFanty = () => {
   };
 
   const { id } = useParams();
-  const product = store.fenty.find((item) => item.id === parseInt(id));
+  const product = store.child.find((item) => item.id === parseInt(id));
 
   if (!product) {
     return <div>Product not in stock</div>;
@@ -116,9 +116,9 @@ const ProdFanty = () => {
   return (
     <div>
       <div className="product__item">
-        <Link to="/fenty" className="product__item-back">
+        <Link to="/child" className="product__item-back">
           <img src={arrowright} alt="pic" />
-          <p>Fenty x puma</p>
+          <p>Kids</p>
         </Link>
 
         <div className="product__item-title">
@@ -132,7 +132,7 @@ const ProdFanty = () => {
 
         <div className="product__item-img">
           <img
-            src={require(`../../assets/images/store/fenty/id${product.id}.avif`)}
+            src={require(`../../assets/images/store/child/id${product.id}.avif`)}
             alt={product.art}
           />
         </div>
@@ -273,4 +273,4 @@ const ProdFanty = () => {
   );
 };
 
-export default ProdFanty;
+export default ProdChild;

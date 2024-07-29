@@ -1,6 +1,7 @@
 import React from 'react';
 import './stores.css';
 import store from '../../store.json';
+import { Link } from 'react-router-dom';
 
 const Mens = () => {
   const man = store.man;
@@ -14,7 +15,11 @@ const Mens = () => {
           {man.map((item) => {
             const image = require(`../../assets/images/store/man/id${item.id}.avif`);
             return (
-              <div key={item.id} className="product__card-item">
+              <Link
+                to={`/man/${item.id}`}
+                key={item.id}
+                className="product__card-item"
+              >
                 <img
                   className="product__card-item_img"
                   src={image}
@@ -29,7 +34,7 @@ const Mens = () => {
                     <p className="product__card-item_rrp">{item.rrp}</p>
                   </div>
                 </div>
-              </div>
+              </Link>
             );
           })}
         </div>
