@@ -35,7 +35,13 @@ const Header = () => {
               src={heartlogo}
               alt="heartlogo"
             />
-            <img className="header__icons-cart" src={cartlogo} alt="cartlogo" />
+            <Link to="/cart">
+              <img
+                className="header__icons-cart"
+                src={cartlogo}
+                alt="cartlogo"
+              />
+            </Link>
             <div className="header__icons-burger">
               <span onClick={handleOpenMenu}>Menu</span>
             </div>

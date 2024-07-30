@@ -30,7 +30,7 @@ const Ladys = () => {
                     <p className="product__card-item_desc-art">{item.art}</p>
                   </div>
                   <div>
-                    <p className="product__card-item_price">{item.price}</p>
+                    <p className="product__card-item_price">{item.price} €</p>
                     <p className="product__card-item_rrp">{item.rrp}</p>
                   </div>
                 </div>

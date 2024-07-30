@@ -16,6 +16,7 @@ import ProdFanty from './components/products/ProdFanty';
 import ProdLadys from './components/products/ProdLadys';
 import ProdMan from './components/products/ProdMan';
 import ProdChild from './components/products/ProdChild';
+import Cart from './components/cart/Cart';
 
 function App() {
   return (
@@ -36,6 +37,7 @@ function App() {
             <Route path="/woman/:id" element={<ProdLadys />} />
             <Route path="/man/:id" element={<ProdMan />} />
             <Route path="/child/:id" element={<ProdChild />} />
+            <Route path="/cart" element={<Cart />} />
           </Routes>
         </div>
         <Footer />

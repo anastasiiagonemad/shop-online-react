@@ -58,6 +58,7 @@ const ProdLadys = () => {
 
         const cartItemsString = localStorage.getItem('cartItems');
         let cartItems;
+        const imgUrl = require(`../../assets/images/store/woman/id${product.id}.png`);
 
         try {
           cartItems = cartItemsString ? JSON.parse(cartItemsString) : [];
@@ -73,6 +74,8 @@ const ProdLadys = () => {
           price: product.price,
           color: product.colour,
           style: product.style,
+          img: imgUrl,
+          avaliable: product.available,
         });
 
         localStorage.setItem('cartItems', JSON.stringify(cartItems));
@@ -90,6 +93,7 @@ const ProdLadys = () => {
 
       const likedItemsString = localStorage.getItem('likedItems');
       let likedItems;
+      const imgUrl = require(`../../assets/images/store/woman/id${product.id}.png`);
 
       try {
         likedItems = likedItemsString ? JSON.parse(likedItemsString) : [];
@@ -105,6 +109,8 @@ const ProdLadys = () => {
         price: product.price,
         color: product.colour,
         style: product.style,
+        img: imgUrl,
+        avaliable: product.available,
       });
 
       localStorage.setItem('likedItems', JSON.stringify(likedItems));
@@ -126,7 +132,7 @@ const ProdLadys = () => {
         </div>
 
         <div className="product__item-price">
-          <p>{product.price}</p>
+          <p>{product.price} €</p>
           <p>{product.rrp}</p>
         </div>
 

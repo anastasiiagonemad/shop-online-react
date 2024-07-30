@@ -58,6 +58,7 @@ const ProdChild = () => {
 
         const cartItemsString = localStorage.getItem('cartItems');
         let cartItems;
+        const imgUrl = require(`../../assets/images/store/child/id${product.id}.avif`);
 
         try {
           cartItems = cartItemsString ? JSON.parse(cartItemsString) : [];
@@ -73,6 +74,8 @@ const ProdChild = () => {
           price: product.price,
           color: product.colour,
           style: product.style,
+          img: imgUrl,
+          avaliable: product.available,
         });
 
         localStorage.setItem('cartItems', JSON.stringify(cartItems));
@@ -90,6 +93,7 @@ const ProdChild = () => {
 
       const likedItemsString = localStorage.getItem('likedItems');
       let likedItems;
+      const imgUrl = require(`../../assets/images/store/child/id${product.id}.avif`);
 
       try {
         likedItems = likedItemsString ? JSON.parse(likedItemsString) : [];
@@ -105,6 +109,8 @@ const ProdChild = () => {
         price: product.price,
         color: product.colour,
         style: product.style,
+        img: imgUrl,
+        avaliable: product.available,
       });
 
       localStorage.setItem('likedItems', JSON.stringify(likedItems));
