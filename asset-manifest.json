@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shop-online-react/static/css/main.9462da88.css",
-    "main.js": "/shop-online-react/static/js/main.013403e0.js",
+    "main.css": "/shop-online-react/static/css/main.48f9cd45.css",
+    "main.js": "/shop-online-react/static/js/main.5df1bb76.js",
     "static/media/FENTY.mp4": "/shop-online-react/static/media/FENTY.7ce8660efcf7cbf4d2a4.mp4",
     "static/media/id14.png": "/shop-online-react/static/media/id14.2fcdf32a02528dcc6d7f.png",
     "static/media/id9.png": "/shop-online-react/static/media/id9.d36ac43a98bbe1d0db0c.png",
@@ -59,11 +59,11 @@
     "static/media/id12.avif": "/shop-online-react/static/media/id12.7b24d183939962fd92d3.avif",
     "static/media/RUN-FAVORITE-Mens-Tee.avif": "/shop-online-react/static/media/RUN-FAVORITE-Mens-Tee.6c5018b110c10175c89f.avif",
     "index.html": "/shop-online-react/index.html",
-    "main.9462da88.css.map": "/shop-online-react/static/css/main.9462da88.css.map",
-    "main.013403e0.js.map": "/shop-online-react/static/js/main.013403e0.js.map"
+    "main.48f9cd45.css.map": "/shop-online-react/static/css/main.48f9cd45.css.map",
+    "main.5df1bb76.js.map": "/shop-online-react/static/js/main.5df1bb76.js.map"
   },
   "entrypoints": [
-    "static/css/main.9462da88.css",
-    "static/js/main.013403e0.js"
+    "static/css/main.48f9cd45.css",
+    "static/js/main.5df1bb76.js"
   ]
 }
