@@ -6,12 +6,17 @@ import riri2 from '../../assets/images/fenty_riri.avif';
 import fenty1 from '../../assets/images/fenty1.avif';
 import fenty2 from '../../assets/images/fenty2.avif';
 import { Link } from 'react-router-dom';
+import arrowright from '../../assets/images/arrow-right.png';
 
 const Fenty = () => {
   const fenty = store.fenty;
   return (
     <div>
       <div className="product">
+        <Link to="/shop-online-react" className="product__item-back">
+          <img src={arrowright} alt="pic" />
+          <p>Home</p>
+        </Link>
         <div className="product__main_mob">
           <div className="product__main_mob_img">
             <img src={riri} alt="pic" />

@@ -2,12 +2,17 @@ import React from 'react';
 import './stores.css';
 import store from '../../store.json';
 import { Link } from 'react-router-dom';
+import arrowright from '../../assets/images/arrow-right.png';
 
 const Ladys = () => {
   const woman = store.woman;
   return (
     <div>
       <div className="product">
+        <Link to="/shop-online-react" className="product__item-back">
+          <img src={arrowright} alt="pic" />
+          <p>Home</p>
+        </Link>
         <div className="product__title">
           <p>Women's</p>
         </div>

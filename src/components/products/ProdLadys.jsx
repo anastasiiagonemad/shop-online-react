@@ -124,7 +124,7 @@ const ProdLadys = () => {
       <div className="product__item">
         <Link to="/woman" className="product__item-back">
           <img src={arrowright} alt="pic" />
-          <p>Woman</p>
+          <p>Women's</p>
         </Link>
 
         <div className="product__item-title">

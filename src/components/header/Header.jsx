@@ -60,7 +60,7 @@ const Header = () => {
                 onClick={handleCloseMenu}
                 className="header__menu-links_link"
               >
-                Ladies
+                Women's
               </Link>
               <img
                 className="header__menu-links_arrow"
@@ -88,7 +88,7 @@ const Header = () => {
                 onClick={handleCloseMenu}
                 className="header__menu-links_link"
               >
-                Children
+                Kids
               </Link>
               <img
                 className="header__menu-links_arrow"
