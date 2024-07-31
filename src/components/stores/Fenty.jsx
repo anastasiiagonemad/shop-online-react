@@ -47,7 +47,7 @@ const Fenty = () => {
             const image = require(`../../assets/images/store/fenty/id${item.id}.avif`);
             return (
               <Link
-                to={`/fenty/${item.id}`}
+                to={`/shop-online-react/fenty/${item.id}`}
                 key={item.id}
                 className="product__card-item"
               >

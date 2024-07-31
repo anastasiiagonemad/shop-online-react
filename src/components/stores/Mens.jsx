@@ -21,7 +21,7 @@ const Mens = () => {
             const image = require(`../../assets/images/store/man/id${item.id}.avif`);
             return (
               <Link
-                to={`/man/${item.id}`}
+                to={`/shop-online-react/man/${item.id}`}
                 key={item.id}
                 className="product__card-item"
               >

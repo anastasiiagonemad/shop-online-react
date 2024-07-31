@@ -122,7 +122,7 @@ const ProdMan = () => {
   return (
     <div>
       <div className="product__item">
-        <Link to="/man" className="product__item-back">
+        <Link to="/shop-online-react/man" className="product__item-back">
           <img src={arrowright} alt="pic" />
           <p>Men's</p>
         </Link>

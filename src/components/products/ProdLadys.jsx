@@ -122,7 +122,7 @@ const ProdLadys = () => {
   return (
     <div>
       <div className="product__item">
-        <Link to="/woman" className="product__item-back">
+        <Link to="/shop-online-react/woman" className="product__item-back">
           <img src={arrowright} alt="pic" />
           <p>Women's</p>
         </Link>

@@ -1,19 +1,19 @@
 /* FONTS */
 
 @font-face {
-  font-family: Bold;
+  font-family: "Bold";
   src: url("../src/assets/fonts/Roboto-Bold.ttf");
 }
 @font-face {
-  font-family: Medium;
+  font-family: "Medium";
   src: url("../src/assets/fonts/Roboto-Medium.ttf");
 }
 @font-face {
-  font-family: Regular;
+  font-family: "Regular";
   src: url("../src/assets/fonts/Roboto-Regular.ttf");
 }
 @font-face {
-  font-family: Thin;
+  font-family: "Thin";
   src: url("../src/assets/fonts/Roboto-Thin.ttf");
 }
 
@@ -22,6 +22,7 @@
 html {
   max-width: auto;
   min-width: 375px;
+  height: 100%;
 }
 
 .content {

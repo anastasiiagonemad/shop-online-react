@@ -28,18 +28,30 @@ function App() {
         <div className="content">
           <Routes>
             <Route path="/shop-online-react" element={<Main />} />
-            <Route path="/woman" element={<Ladys />} />
-            <Route path="/man" element={<Mens />} />
-            <Route path="/sale" element={<Sale />} />
-            <Route path="/child" element={<Child />} />
-            <Route path="/fenty" element={<Fenty />} />
-            <Route path="/inprocess" element={<DevelopePage />} />
-            <Route path="/fenty/:id" element={<ProdFanty />} />
-            <Route path="/woman/:id" element={<ProdLadys />} />
-            <Route path="/man/:id" element={<ProdMan />} />
-            <Route path="/child/:id" element={<ProdChild />} />
-            <Route path="/cart" element={<Cart />} />
-            <Route path="/wishlist" element={<Wishlist />} />
+            <Route path="/shop-online-react/woman" element={<Ladys />} />
+            <Route path="/shop-online-react/man" element={<Mens />} />
+            <Route path="/shop-online-react/sale" element={<Sale />} />
+            <Route path="/shop-online-react/child" element={<Child />} />
+            <Route path="/shop-online-react/fenty" element={<Fenty />} />
+            <Route
+              path="/shop-online-react/inprocess"
+              element={<DevelopePage />}
+            />
+            <Route
+              path="/shop-online-react/fenty/:id"
+              element={<ProdFanty />}
+            />
+            <Route
+              path="/shop-online-react/woman/:id"
+              element={<ProdLadys />}
+            />
+            <Route path="/shop-online-react/man/:id" element={<ProdMan />} />
+            <Route
+              path="/shop-online-react/child/:id"
+              element={<ProdChild />}
+            />
+            <Route path="/shop-online-react/cart" element={<Cart />} />
+            <Route path="/shop-online-react/wishlist" element={<Wishlist />} />
           </Routes>
         </div>
         <Footer />

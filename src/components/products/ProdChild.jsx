@@ -122,7 +122,7 @@ const ProdChild = () => {
   return (
     <div>
       <div className="product__item">
-        <Link to="/child" className="product__item-back">
+        <Link to="/shop-online-react/child" className="product__item-back">
           <img src={arrowright} alt="pic" />
           <p>Kids</p>
         </Link>

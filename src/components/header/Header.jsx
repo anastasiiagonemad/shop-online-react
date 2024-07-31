@@ -30,14 +30,14 @@ const Header = () => {
           </div>
           <div className="header__nav"></div>
           <div className="header__icons">
-            <Link to="/wishlist">
+            <Link to="/shop-online-react/wishlist">
               <img
                 className="header__icons-heart"
                 src={heartlogo}
                 alt="heartlogo"
               />
             </Link>
-            <Link to="/cart">
+            <Link to="/shop-online-react/cart">
               <img
                 className="header__icons-cart"
                 src={cartlogo}
@@ -58,7 +58,7 @@ const Header = () => {
           <div className="header__menu-links">
             <div>
               <Link
-                to="/woman"
+                to="/shop-online-react/woman"
                 onClick={handleCloseMenu}
                 className="header__menu-links_link"
               >
@@ -72,7 +72,7 @@ const Header = () => {
             </div>
             <div>
               <Link
-                to="/man"
+                to="/shop-online-react/man"
                 onClick={handleCloseMenu}
                 className="header__menu-links_link"
               >
@@ -86,7 +86,7 @@ const Header = () => {
             </div>
             <div>
               <Link
-                to="/child"
+                to="/shop-online-react/child"
                 onClick={handleCloseMenu}
                 className="header__menu-links_link"
               >
@@ -100,7 +100,7 @@ const Header = () => {
             </div>
             <div>
               <Link
-                to="/fenty"
+                to="/shop-online-react/fenty"
                 onClick={handleCloseMenu}
                 className="header__menu-links_link"
               >
@@ -114,7 +114,7 @@ const Header = () => {
             </div>
             <div>
               <Link
-                to="/sale"
+                to="/shop-online-react/sale"
                 onClick={handleCloseMenu}
                 className="header__menu-links_link"
               >

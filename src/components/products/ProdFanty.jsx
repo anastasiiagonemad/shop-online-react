@@ -122,7 +122,7 @@ const ProdFanty = () => {
   return (
     <div>
       <div className="product__item">
-        <Link to="/fenty" className="product__item-back">
+        <Link to="/shop-online-react/fenty" className="product__item-back">
           <img src={arrowright} alt="pic" />
           <p>Fenty x puma</p>
         </Link>
