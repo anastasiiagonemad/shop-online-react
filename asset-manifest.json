@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shop-online-react/static/css/main.4cdb4dec.css",
-    "main.js": "/shop-online-react/static/js/main.4716f83e.js",
+    "main.css": "/shop-online-react/static/css/main.3ce0d354.css",
+    "main.js": "/shop-online-react/static/js/main.d8c061eb.js",
     "static/media/FENTY.mp4": "/shop-online-react/static/media/FENTY.7ce8660efcf7cbf4d2a4.mp4",
     "static/media/id14.png": "/shop-online-react/static/media/id14.2fcdf32a02528dcc6d7f.png",
     "static/media/puma-bg1.png": "/shop-online-react/static/media/puma-bg1.090aec80a3f72e22a86a.png",
@@ -59,11 +59,11 @@
     "static/media/id12.avif": "/shop-online-react/static/media/id12.7b24d183939962fd92d3.avif",
     "static/media/RUN-FAVORITE-Mens-Tee.avif": "/shop-online-react/static/media/RUN-FAVORITE-Mens-Tee.6c5018b110c10175c89f.avif",
     "index.html": "/shop-online-react/index.html",
-    "main.4cdb4dec.css.map": "/shop-online-react/static/css/main.4cdb4dec.css.map",
-    "main.4716f83e.js.map": "/shop-online-react/static/js/main.4716f83e.js.map"
+    "main.3ce0d354.css.map": "/shop-online-react/static/css/main.3ce0d354.css.map",
+    "main.d8c061eb.js.map": "/shop-online-react/static/js/main.d8c061eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cdb4dec.css",
-    "static/js/main.4716f83e.js"
+    "static/css/main.3ce0d354.css",
+    "static/js/main.d8c061eb.js"
   ]
 }
