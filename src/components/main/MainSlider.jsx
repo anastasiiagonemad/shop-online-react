@@ -138,14 +138,7 @@ const MainSlider = () => {
         style={{ transform: `translateX(-${currentIndex * 50}%)` }}
       >
         {items.map((item, index) => (
-          <div
-            className="main__carousel-item"
-            key={item.id}
-            style={{
-              opacity:
-                index === currentIndex || index === currentIndex + 1 ? 1 : 0.5,
-            }}
-          >
+          <div className="main__carousel-item" key={item.id}>
             <img src={item.src} alt={item.alt} />
             <p className="main__carousel-item_title">{item.text}</p>
             <p className="main__carousel-item_price">{item.price}</p>
