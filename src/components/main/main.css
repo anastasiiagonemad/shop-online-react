@@ -152,14 +152,41 @@
 }
 
 /* SLIDER */
+
+.main__carousel {
+    position: relative;
+    overflow: hidden;
+    margin: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.main__carousel-item {
+    min-width: 50%;
+    box-sizing: border-box;
+    padding: 4rem;
+    flex: 50%;
+    display: flex;
+    flex-direction: column;
+}
 .main__carousel-items {
     display: flex;
-    gap: 0.5rem;
-    margin: 1rem;
+    justify-content: space-around;
+    transition: transform 0.5s ease-in-out;
+    width: 100%;
+}
+@keyframes slider {
+    from {
+        transform: translateX(-20%);
+    }
+    to {
+        transform: translateX(0%);
+    }
 }
 
 .main__carousel-item img {
     width: 100%;
+    height: auto;
 }
 
 .main__carousel-item_title {
@@ -178,6 +205,45 @@
     font-size: 0.6em;
     font-family: "Thin", sans-serif;
     color: rgba(0, 0, 0, 0.5);
+}
+
+.main__carousel-btn-next img {
+    width: 15px;
+}
+
+.main__carousel-btn-prev img {
+    width: 15px;
+    transform: rotate(180deg);
+}
+
+.main__carousel-btn-next button,
+.main__carousel-btn-prev button {
+    background-color: black;
+    border: none;
+    border-radius: 150px;
+    cursor: pointer;
+    padding: 6px 7px 2px 5px;
+    z-index: 100;
+}
+
+.main__carousel-btn-next button {
+    padding: 6px 5px 2px 6px;
+}
+
+.main__carousel-btn-prev {
+    position: absolute;
+    top: 40%;
+    transform: translateY(-40%);
+    transform: translateX(-2%);
+    left: 15px;
+}
+
+.main__carousel-btn-next {
+    position: absolute;
+    top: 40%;
+    transform: translateY(-40%);
+    transform: translateX(-2%);
+    right: 5px;
 }
 
 /* ---------------- */
@@ -232,6 +298,7 @@
 
 .main__text-to-open {
     margin: 3rem 1rem;
+    cursor: pointer;
 }
 
 .main__text-to-open_title p {
@@ -249,8 +316,22 @@
 .main__text-to-open_closed-text span {
     font-family: "Bold", sans-serif;
     padding: 3px;
+    text-decoration: underline;
+}
+.main__text-to-open_closed-text {
+    animation: 1s closedText;
 }
 
+@keyframes closedText {
+    from {
+        opacity: 0;
+        transform: translateY(-10%);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
 .main__text-to-open_closed-text-btn {
     text-decoration: underline;
     font-family: "Regular", sans-serif;

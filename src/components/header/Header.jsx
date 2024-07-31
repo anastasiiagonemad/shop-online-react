@@ -30,11 +30,13 @@ const Header = () => {
           </div>
           <div className="header__nav"></div>
           <div className="header__icons">
-            <img
-              className="header__icons-heart"
-              src={heartlogo}
-              alt="heartlogo"
-            />
+            <Link to="/wishlist">
+              <img
+                className="header__icons-heart"
+                src={heartlogo}
+                alt="heartlogo"
+              />
+            </Link>
             <Link to="/cart">
               <img
                 className="header__icons-cart"

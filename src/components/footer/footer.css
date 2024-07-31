@@ -1,9 +1,9 @@
 .footer {
     display: grid;
-    justify-content: space-evenly;
+    justify-content: space-around;
     background-color: black;
     padding: 1rem;
-    grid-template-areas: "support about discount";
+    grid-template-areas: "support about . discount";
 }
 
 .footer__about,
@@ -14,10 +14,27 @@
     color: white;
 }
 
-.footer__about p,
-.footer__support p,
-.footer__discount p {
+.footer__about-title,
+.footer__support-title {
+    cursor: pointer;
+}
+
+.footer__about li,
+.footer__support li,
+.footer__discount li {
     font-size: 0.5em;
+    list-style: none;
+    margin-left: -2.5rem;
+    line-height: 1.5;
+    cursor: pointer;
+    font-family: "Thin", sans-serif;
+}
+
+.footer__about li:hover,
+.footer__support li:hover,
+.footer__discount li:hover {
+    transition: 0.1s ease-in;
+    color: #ad946d;
 }
 /* GRID AREAS */
 .footer__support {
@@ -31,7 +48,7 @@
 }
 /* ----------------------- */
 
-.footer__discount p {
+.footer__discount li {
     font-family: "Medium", sans-serif;
     font-size: 0.875em;
 }

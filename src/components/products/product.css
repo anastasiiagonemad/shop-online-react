@@ -90,7 +90,6 @@
 .product__item-btns_quantity {
     padding: 0 1rem 0 1rem;
     border: 1px solid rgba(0, 0, 0, 0.3);
-    cursor: pointer;
     border-radius: 2px;
 }
 
@@ -135,6 +134,7 @@
     padding: 0.5rem;
     width: 100%;
     border-radius: 2px;
+    cursor: pointer;
 }
 
 /*  ----------------------------- */

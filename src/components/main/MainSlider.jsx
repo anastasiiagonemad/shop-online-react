@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react';
+import React, { useState, useRef } from 'react';
 import './main.css';
 import bmwPants from '../../assets/images/BMW-M-Motorsport-ESS-Fleece-Pants.avif';
 import hoodie from '../../assets/images/DARE-TO-Womens-Oversized-Hoodie.avif';
@@ -6,6 +6,7 @@ import sneakers1 from '../../assets/images/Mayze-Sneakers-Women.avif';
 import sneakers2 from '../../assets/images/PUMA-Doublecourt-PRM.avif';
 import sneakers3 from '../../assets/images/RS-X-Efekt-PRM-Sneakers.avif';
 import tShort from '../../assets/images/RUN-FAVORITE-Mens-Tee.avif';
+import arrow from '../../assets/images/arrow-rightW.png';
 
 const MainSlider = () => {
   const items = [
@@ -61,7 +62,7 @@ const MainSlider = () => {
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const [startX, setStartX] = useState(0);
-  const [isDraggin, setIsDraggin] = useState(false);
+  const [isDragging, setIsDragging] = useState(false);
   const slideRef = useRef(null);
 
   const nextSlide = () => {
@@ -70,50 +71,50 @@ const MainSlider = () => {
 
   const prevSlide = () => {
     setCurrentIndex((prevIndex) =>
-      prevIndex === 0 ? items.length - 2 : prevIndex - 1,
+      prevIndex === 0 ? items.length - 2 : prevIndex - 2,
     );
   };
 
   const handleMouseDown = (e) => {
     setStartX(e.clientX);
-    setIsDraggin(true);
+    setIsDragging(true);
   };
 
   const handleMouseMove = (e) => {
-    if (!isDraggin) return;
+    if (!isDragging) return;
     const currentX = e.clientX;
     if (startX - currentX > 50) {
       nextSlide();
-      setIsDraggin(false);
+      setIsDragging(false);
     } else if (currentX - startX > 50) {
       prevSlide();
-      setIsDraggin(false);
+      setIsDragging(false);
     }
   };
 
   const handleMouseUp = () => {
-    setIsDraggin(false);
+    setIsDragging(false);
   };
 
   const handleTouchStart = (e) => {
     setStartX(e.touches[0].clientX);
-    setIsDraggin(true);
+    setIsDragging(true);
   };
 
   const handleTouchMove = (e) => {
-    if (!isDraggin) return;
+    if (!isDragging) return;
     const currentX = e.touches[0].clientX;
     if (startX - currentX > 50) {
       nextSlide();
-      setIsDraggin(false);
+      setIsDragging(false);
     } else if (currentX - startX > 50) {
       prevSlide();
-      setIsDraggin(false);
+      setIsDragging(false);
     }
   };
 
   const handleTouchEnd = () => {
-    setIsDraggin(false);
+    setIsDragging(false);
   };
 
   return (
@@ -127,15 +128,35 @@ const MainSlider = () => {
       onTouchMove={handleTouchMove}
       onTouchEnd={handleTouchEnd}
     >
-      <div className="main__carousel-items">
-        {items.slice(currentIndex, currentIndex + 2).map((item) => (
-          <div className="main__carousel-item" key={item.id}>
-            <img src={item.src} alt="" />
+      <div className="main__carousel-btn-prev">
+        <button onClick={prevSlide}>
+          <img src={arrow} alt="arrow" />
+        </button>
+      </div>
+      <div
+        className="main__carousel-items"
+        style={{ transform: `translateX(-${currentIndex * 50}%)` }}
+      >
+        {items.map((item, index) => (
+          <div
+            className="main__carousel-item"
+            key={item.id}
+            style={{
+              opacity:
+                index === currentIndex || index === currentIndex + 1 ? 1 : 0.5,
+            }}
+          >
+            <img src={item.src} alt={item.alt} />
             <p className="main__carousel-item_title">{item.text}</p>
             <p className="main__carousel-item_price">{item.price}</p>
             <p className="main__carousel-item_oldprice">{item.oldPrice}</p>
           </div>
         ))}
+      </div>
+      <div className="main__carousel-btn-next">
+        <button onClick={nextSlide}>
+          <img src={arrow} alt="arrow" />
+        </button>
       </div>
     </div>
   );

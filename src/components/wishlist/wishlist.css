@@ -1,0 +1,112 @@
+.wishlist__title {
+    margin: 5rem 0 3rem 1rem;
+}
+
+.wishlist__title h2 {
+    font-family: "Bold", sans-serif;
+    text-transform: uppercase;
+    font-size: 1.7em;
+}
+
+.wishlist__title-span {
+    color: gray;
+}
+
+.wishlist__item {
+    display: grid;
+    grid-template-areas:
+        "img title price"
+        "img button button";
+    padding: 2rem;
+}
+
+.wishlist__item-img {
+    grid-area: img;
+}
+
+.wishlist__item-img img {
+    width: 100%;
+    max-width: 350px;
+}
+
+.wishlist__item-title {
+    grid-area: title;
+}
+
+.wishlist__item-title h3 {
+    font-family: "Medium", sans-serif;
+}
+
+.wishlist__item-title p {
+    color: rgba(0, 0, 0, 0.3);
+    font-size: 0.875em;
+    font-family: "Thin", sans-serif;
+}
+
+.wishlist__item-title span {
+    color: black;
+}
+
+.wishlist__item-price {
+    display: grid;
+    grid-area: price;
+    justify-content: end;
+}
+
+.wishlist__item-price p {
+    font-family: "Bold", sans-serif;
+    font-size: 1.2em;
+}
+
+.wishlist__item-price img {
+    width: 20px;
+    justify-self: end;
+}
+
+.wishlist__item-btn-to-cart {
+    align-self: self-end;
+    grid-area: button;
+}
+.wishlist__item-btn-to-cart button {
+    width: 100%;
+    background-color: #ad946d;
+    border: none;
+    padding: 1rem 0;
+    color: white;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-family: "Medium", sans-serif;
+}
+
+.wishlist__item-btn-to-cart button:hover {
+    transition: 0.5s ease-in;
+    background-color: #c4a36e;
+}
+
+@media screen and (max-width: 1100px) {
+    .wishlist__item {
+        display: grid;
+        grid-template-areas:
+            "img . title"
+            "button .  price";
+        column-gap: 2rem;
+    }
+
+    .wishlist__item-price {
+        display: grid;
+        place-self: end;
+    }
+    .wishlist__item-price img {
+        place-self: end;
+    }
+
+    .wishlist__item-btn-to-cart {
+        place-self: start;
+        align-self: end;
+        width: 100%;
+    }
+
+    .wishlist__item-btn-to-cart button {
+        width: 100%;
+    }
+}

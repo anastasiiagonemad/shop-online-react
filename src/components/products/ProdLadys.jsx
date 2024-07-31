@@ -132,7 +132,7 @@ const ProdLadys = () => {
         </div>
 
         <div className="product__item-price">
-          <p>{product.price} €</p>
+          <p>{product.price}</p>
           <p>{product.rrp}</p>
         </div>
 

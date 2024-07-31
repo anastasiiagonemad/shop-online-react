@@ -17,6 +17,7 @@ import ProdLadys from './components/products/ProdLadys';
 import ProdMan from './components/products/ProdMan';
 import ProdChild from './components/products/ProdChild';
 import Cart from './components/cart/Cart';
+import Wishlist from './components/wishlist/Wishlist';
 
 function App() {
   return (
@@ -38,6 +39,7 @@ function App() {
             <Route path="/man/:id" element={<ProdMan />} />
             <Route path="/child/:id" element={<ProdChild />} />
             <Route path="/cart" element={<Cart />} />
+            <Route path="/wishlist" element={<Wishlist />} />
           </Routes>
         </div>
         <Footer />

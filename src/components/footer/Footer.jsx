@@ -19,45 +19,49 @@ const Footer = () => {
     <div>
       <div className="footer">
         <div className="footer__support">
-          <div className="footer__support-title">
+          <div onClick={handleSupportOpen} className="footer__support-title">
             <p>Support</p>
-            <img onClick={handleSupportOpen} src={arrowRight} alt="icon" />
+            <img src={arrowRight} alt="icon" />
           </div>
           {isSupportOpen && (
             <div className="footer__support-other">
-              <p>Contact Us</p>
-              <p>FAQ</p>
-              <p>Check Gift Card Balance</p>
-              <p>Purchase a Gift Card</p>
-              <p>Check Order</p>
-              <p>Delivery</p>
-              <p>Find a Puma store</p>
-              <p>Size Guide</p>
-              <p>Return Policy</p>
-              <p>Privacy Policy</p>
-              <p>Terms & Conditions</p>
-              <p>Right & Withdrawal</p>
-              <p>*Promo Terms</p>
-              <p>Student Discount</p>
-              <p>Refer a Friend</p>
-              <p>Became an Affilate Partner</p>
-              <p>Digital Services Act Information</p>
+              <ul>
+                <li>Contact Us</li>
+                <li>FAQ</li>
+                <li>Check Gift Card Balance</li>
+                <li>Purchase a Gift Card</li>
+                <li>Check Order</li>
+                <li>Delivery</li>
+                <li>Find a Puma store</li>
+                <li>Size Guide</li>
+                <li>Return Policy</li>
+                <li>Privacy Policy</li>
+                <li>Terms & Conditions</li>
+                <li>Right & Withdrawal</li>
+                <li>*Promo Terms</li>
+                <li>Student Discount</li>
+                <li>Refer a Friend</li>
+                <li>Became an Affilate Partner</li>
+                <li>Digital Services Act Information</li>
+              </ul>
             </div>
           )}
         </div>
         <div className="footer__about">
-          <div className="footer__about-title">
+          <div onClick={handleAboutOpen} className="footer__about-title">
             <p>About PUMA</p>
-            <img onClick={handleAboutOpen} src={arrowRight} alt="icon" />
+            <img src={arrowRight} alt="icon" />
           </div>
           {isAboutOpen && (
             <div className="footer__about-other">
-              <p>Company</p>
-              <p>Corporate News</p>
-              <p>Press Center</p>
-              <p>Investors</p>
-              <p>Sustainability</p>
-              <p>Careers</p>
+              <ul>
+                <li>Company</li>
+                <li>Corporate News</li>
+                <li>Press Center</li>
+                <li>Investors</li>
+                <li>Sustainability</li>
+                <li>Careers</li>
+              </ul>
             </div>
           )}
         </div>

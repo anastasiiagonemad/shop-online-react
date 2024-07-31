@@ -1,21 +1,22 @@
 .developer__page {
-    margin-top: 50px;
-    background: url("../../assets/images/background-img2.webp");
-    background-position: top;
+    background: url("../../assets/images/puma-bg1.png");
+    background-position: center;
     background-size: cover;
     height: 100vh;
-    flex: 1;
     display: grid;
     place-items: center;
+    background-color: #0a4f29;
 }
 
 .developer__page-text1 {
     text-align: center;
-    padding: 10rem 1rem 1rem;
+    padding: 0rem 1rem 1rem;
     font-family: "Bold", sans-serif;
     font-size: 3em;
     color: white;
     text-transform: uppercase;
+    place-self: start;
+    justify-self: center;
 }
 
 .developer__page-text2 {
@@ -24,4 +25,5 @@
     font-size: 1em;
     color: white;
     text-transform: uppercase;
+    place-self: center;
 }

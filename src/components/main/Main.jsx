@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import './main.css';
 import { Link } from 'react-router-dom';
 import fenty from '../../assets/video/FENTY.mp4';
@@ -14,6 +14,19 @@ const Main = () => {
   const [isTextOpen, setIsTextOpen] = useState(true);
   const [isClosedText, setIsClosedText] = useState(false);
 
+  const videoRef = useRef(null);
+
+  useEffect(() => {
+    const video = videoRef.current;
+
+    if (video) {
+      video.muted = true;
+      video.play().catch((error) => {
+        console.error('Autoplay failed', error);
+      });
+    }
+  }, []);
+
   const handleOpenText = () => {
     setIsTextOpen(false);
     setIsClosedText(true);
@@ -28,10 +41,12 @@ const Main = () => {
     <div>
       <div className="main__video">
         <video
+          ref={videoRef}
           className="video"
           controls
           src={fenty}
           autoPlay
+          playsInline
           muted
           loop
         ></video>
