@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/shop-online-react/static/css/main.48f9cd45.css",
-    "main.js": "/shop-online-react/static/js/main.14769ecd.js",
+    "main.css": "/shop-online-react/static/css/main.3e29b699.css",
+    "main.js": "/shop-online-react/static/js/main.7196cc65.js",
     "static/media/FENTY.mp4": "/shop-online-react/static/media/FENTY.7ce8660efcf7cbf4d2a4.mp4",
     "static/media/id14.png": "/shop-online-react/static/media/id14.2fcdf32a02528dcc6d7f.png",
+    "static/media/puma-bg1.png": "/shop-online-react/static/media/puma-bg1.090aec80a3f72e22a86a.png",
     "static/media/id9.png": "/shop-online-react/static/media/id9.d36ac43a98bbe1d0db0c.png",
     "static/media/id7.png": "/shop-online-react/static/media/id7.4668d9f14542afc6e493.png",
     "static/media/id10.png": "/shop-online-react/static/media/id10.930140f1710443b219ff.png",
@@ -19,7 +20,6 @@
     "static/media/id12.png": "/shop-online-react/static/media/id12.8b3ef6490ef7845955b0.png",
     "static/media/id2.png": "/shop-online-react/static/media/id2.c612ab2598875a8c1e39.png",
     "static/media/footbal.jpeg": "/shop-online-react/static/media/footbal.656a978420c7df2ce64d.jpeg",
-    "static/media/background-img2.webp": "/shop-online-react/static/media/background-img2.8b6edacec7908397763f.webp",
     "static/media/Roboto-Medium.ttf": "/shop-online-react/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
     "static/media/Roboto-Thin.ttf": "/shop-online-react/static/media/Roboto-Thin.a732a12eb07742232407.ttf",
     "static/media/Roboto-Regular.ttf": "/shop-online-react/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
@@ -59,11 +59,11 @@
     "static/media/id12.avif": "/shop-online-react/static/media/id12.7b24d183939962fd92d3.avif",
     "static/media/RUN-FAVORITE-Mens-Tee.avif": "/shop-online-react/static/media/RUN-FAVORITE-Mens-Tee.6c5018b110c10175c89f.avif",
     "index.html": "/shop-online-react/index.html",
-    "main.48f9cd45.css.map": "/shop-online-react/static/css/main.48f9cd45.css.map",
-    "main.14769ecd.js.map": "/shop-online-react/static/js/main.14769ecd.js.map"
+    "main.3e29b699.css.map": "/shop-online-react/static/css/main.3e29b699.css.map",
+    "main.7196cc65.js.map": "/shop-online-react/static/js/main.7196cc65.js.map"
   },
   "entrypoints": [
-    "static/css/main.48f9cd45.css",
-    "static/js/main.14769ecd.js"
+    "static/css/main.3e29b699.css",
+    "static/js/main.7196cc65.js"
   ]
 }
